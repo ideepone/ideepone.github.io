@@ -6,3 +6,10 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+.tmp*
+.vscode
+tmp/
+yarn.lock
+.nyc_output/
+coverage/
+.idea/
