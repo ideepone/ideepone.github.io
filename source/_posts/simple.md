@@ -1,6 +1,7 @@
 ---
 title: Simple
-date: 2023-08-26 01:37:30
+date: 2023-08-26 02:48:01
+lang: en
 tags:
 ---
 Many years ago, I might have been someone who delved into various fields of knowledge, and perhaps I still am to this day, but now I'm captivated by a very simple principle: "Keep it simple."
@@ -36,7 +37,3 @@ The world originally might have consisted of individual entities composed of the
 More than 90% of things in this world can be broken down to a simple level of comprehension. If they cannot, it only suggests that we are still unable to understand, unable to delve into the truth and essence, requiring continual exploration.
 
 The world of computers has only 0 and 1. Is it possible that our world is the same?
-
-
-
-
