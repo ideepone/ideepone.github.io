@@ -17,7 +17,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"oneview.cc","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+    var CONFIG = {"hostname":"oneview.cc","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
   <meta name="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discus">
@@ -104,6 +104,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -134,11 +135,38 @@
     <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
     </header>
@@ -157,323 +185,6 @@
 
           <div class="content index posts-expand">
             
-    
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/Noteman/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="ONE">
-      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="ONEVIEW">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/zh-CN/Noteman/" class="post-title-link" itemprop="url">Noteman</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2022-07-06 00:00:00" itemprop="dateCreated datePublished" datetime="2022-07-06T00:00:00+08:00">2022-07-06</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2024-08-12 23:36:34" itemprop="dateModified" datetime="2024-08-12T23:36:34+08:00">2024-08-12</time>
-              </span>
-
-          <br>
-            <span class="post-meta-item" title="本文字数">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">本文字数：</span>
-              <span>653</span>
-            </span>
-            <span class="post-meta-item" title="阅读时长">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>2 分钟</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>「笔记侠·记录」</p>
-<p><strong>上海·20220706</strong></p>
-<ol>
-<li><p>输出笔记的方式很多种，工具也有很多种，找到适合自己的一种才是最重要的。</p>
-</li>
-<li><p>学习新知识是一个循序渐进的过程，需要「刻意练习」，也需要「空杯心态」。</p>
-</li>
-<li><p>信息也好、知识也好、认知也好、笔记也好，我们最终都需要了解这背后的本质，有道法术，善于抓住背后的逻辑。</p>
-</li>
-<li><p>目标很重要，规划起来，成年人的时间才是最宝贵的。如何在规定的时间学有所获，甚至学到更多，是需要用心和讲究方法的。任务拆分的越细致，准备和投入的越充分，收获也自然越多。</p>
-</li>
-<li><p>三人行，必有我师。我们大家有幸遇见，多多交流，才能碰撞出更多的优秀火花，才能学习收获更多，才能成长更多。</p>
-</li>
-<li><p>我是大家本次的专属助教ONE，越积极，越主动，收获一定会越多的。可以私聊我，有什么问题单独发给我都可以。</p>
-</li>
-</ol>
-<p><strong>上海·20220708</strong></p>
-<ol>
-<li><p>聚焦：问题&#x2F;目标可以再聚焦。</p>
-<ul>
-<li><p>在这个信息噪音无比繁琐的时代，我们的注意力就是非常宝贵的了，我们有时候太容易被这些噪音牵着走。那么，可以停下来问问自己，当下，我最关注的一个具体问题是什么？</p>
-<p>有时候可能是我们要的太多，太大，太泛。也许当下，构建知识体系还没有比我仔细学完一课，把里面的「知识」这个概念弄清楚更重要。</p>
-</li>
-</ul>
-</li>
-<li><p>节奏：也许太快，也许太慢，什么才是刚刚好。</p>
-<ul>
-<li><p>每个人的境地都一样，经历都不同，对事物的理解和追求也会不同，但无论他人怎么样都是他人的，这个世界我[ONE]的理解，最后只不过是个人的理解和追求。所以，关注自己的本身成长，掌握自己的节奏很重要，自己的节奏，我想，不过是今天我又学到了一个新的知识，对某个事物可能又有新的理解，未来我会把这些视角、理解串成我的世界观，这个才是我的知识体系。</p>
-</li>
-<li><p>很多事物都是「有迹可循」，我们只需「循序渐进」，最终都会达到目标的。</p>
-</li>
-</ul>
-</li>
-<li><p>积极：积极是成长的催化剂，积极地思考，积极地探索，积极地交流沟通，都会有让自己快速的成长。</p>
-</li>
-</ol>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-    
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220702/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="ONE">
-      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="ONEVIEW">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/zh-CN/20220702/" class="post-title-link" itemprop="url">朝闻道，夕死可矣</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2022-07-02 00:00:00" itemprop="dateCreated datePublished" datetime="2022-07-02T00:00:00+08:00">2022-07-02</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2024-08-12 23:18:15" itemprop="dateModified" datetime="2024-08-12T23:18:15+08:00">2024-08-12</time>
-              </span>
-
-          <br>
-            <span class="post-meta-item" title="本文字数">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">本文字数：</span>
-              <span>642</span>
-            </span>
-            <span class="post-meta-item" title="阅读时长">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>2 分钟</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>「对话」</p>
-<p>最近在读《傅佩荣的西方哲学课》，已经第一遍完成10%了，这速度感觉真的要半年才能学完这课，不过读得确实比较细，收获也蛮多的。</p>
-<p>很早就听过，乔布斯愿意用他一生的科技成就与财富，换取同哲学家苏格拉底共处一个下午。</p>
-<p>起初的理解，苏格拉底很厉害，乔布斯也很厉害，乔布斯能从苏格拉底能获取到他觉得有价值的内容。</p>
-<p>自开始探索认知领域之后，很多断断续续的感悟沉淀，终于在这套体系里面得到安抚，不过自己遇到的种种问题，先哲两千年也遇到过。</p>
-<p>大抵人类的本性都是在试图证明自己的想法是正确的，如果一旦发现有同道中人，不免千杯逢知己，甚少，唏嘘感叹。</p>
-<p>比如，读到苏格拉底之死竟然发现是为了捍卫法律，依然赴死，这简直太震撼了，这个生死已经超然了。</p>
-<p>这也就终于明白乔布斯愿意用一生的财富与他来对话。</p>
-<p>比如，在读到赫拉克拉特的时候，发现他的其中一个观点，他发现这个世界万物背后皆是逻辑。</p>
-<p>这个我刚好是最近悟出的一点门道，感动至极，竟然这些先辈早已指出了方向。</p>
-<p>比如，这些先哲可能逃离不开研究神学，经常也听到哲学背后是神学。</p>
-<p>其实，这个神学，不是我们日常理解的「鬼神」，而在我看来就是「神即道，道法自然」，是这个世界宇宙运行的自然规律。</p>
-<p>比如，关于这个世界的理解，不过最终都回归到人的三观上，所谓认知，不过就是三观的认知。</p>
-<p>这点也是最近终于发现的一个结论，再次感动。</p>
-<p>比如，哲学追求“低调的人生态度”，平安、平静、平衡。</p>
-<p>这个也是我一直以来追求的心境，内心的一个平衡状态，只是迟迟不可得，好在哲学这条路也算给了我一个慰藉吧。</p>
-<p>比如，笛卡尔说，“每一个人一生之中至少要有一次，要去怀疑所有能够被怀疑的东西。”</p>
-<p>这个也是我理解的一种「重生」态度，一种感性到理性，生而为人的一个蜕变的过程。</p>
-<p>孔子说：“朝闻道，夕死可矣。”</p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-    
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220630/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="ONE">
-      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="ONEVIEW">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/zh-CN/20220630/" class="post-title-link" itemprop="url">抽象的三个层次</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2022-06-30 00:00:00" itemprop="dateCreated datePublished" datetime="2022-06-30T00:00:00+08:00">2022-06-30</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2024-08-12 23:12:50" itemprop="dateModified" datetime="2024-08-12T23:12:50+08:00">2024-08-12</time>
-              </span>
-
-          <br>
-            <span class="post-meta-item" title="本文字数">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">本文字数：</span>
-              <span>820</span>
-            </span>
-            <span class="post-meta-item" title="阅读时长">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>3 分钟</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>「抽象」</p>
-<p>最近给新同事培训复盘笔记的时候发现了一个普遍现象：大部分人在记笔记的时候都很容易一堆一堆地输出来，恨不得把听到的内容或者做得事儿挨个字噼里啪啦的全记下来。</p>
-<p>结果就是，很难从笔记中发现重点，更不容易清晰地复述自己的内容。</p>
-<p>这里面主要有个方法可以练习：那就是对自己的输出进行不断的提炼抽象分类。</p>
-<p>刚好这两天也看到《傅佩荣的西方哲学课》讲到了三层抽象：</p>
-<ol>
-<li><p>物理抽象</p>
-</li>
-<li><p>数学抽象</p>
-</li>
-<li><p>形而上抽象</p>
-</li>
-</ol>
-<p>这里面主要有一个我觉得思维比较有意思的地方，其实还是现实到意识，客观到主观的一个反映。</p>
-<p><strong>物理抽象，就是把它的物理特性、个别的东西去掉。</strong></p>
-<p>譬如你现在说：“我看到一辆车”。你看到车，你称它为车，但这辆车跟别的车不一样，因为天下没有两辆一样的车。你说这是车，就代表什么？你把物理特性去掉了。换句话说，物理抽象是人的理性的本能的运作。</p>
-<p>一个小孩子看图片，看到一只狮子的画，在书上看起来跟猫差不多大小，他到动物园一看就知道那是一只狮子。为什么？他有物理抽象能力，他不会说：“这跟我书上看的平面的那个狮子不一样。”你不用担心，人作为人，他的理性就有这样的能力，叫做物理抽象。</p>
-<p><strong>你如果没有物理抽象的能力，你永远只能看个别性、个体性、特殊性，而不能说这是车，因为天下没有所谓的车，每辆车都不一样。</strong></p>
-<p>有时候我们经常说透过现象看本质，就是一种透过个性看共性的一种整体思维、宏观思维、系统思维的能力。</p>
-<p>当我们谈论人类的时候，我们不是在谈论某一个具体的人。</p>
-<p><strong>数学抽象，我觉得可以用另外一个概念来表示，数学建模，</strong>就是对现实世界的一个代数几何的抽象。比如计算机的0&#x2F;1信息表示、山水画简约画等等。</p>
-<p><strong>形而上抽象</strong>，不问这是什么东西，也不问能不能计算，<strong>只问“你存在吗？”</strong> 只要是存在的都是一样的，譬如说有一张桌子存在，还有太阳，还有月亮，还有房屋，它们都是一样的。</p>
-<p>亚里士多德谈到形而上学的时候，他用一句话“把存在之物当作存在之物来看”，而不要看它是不是苹果，是不是圆形的东西，不要看那些，只看它是不是存在。</p>
-<p>每一层抽象都是一个升维的过程，维度越高信息的压缩比其实更大，简练但涵盖的信息却更大，这也就是我们在经常记笔记容易忽略的。</p>
-<p>我们如果更容易提炼抽象，也就更能把握事物的特性要点，进而可以推断普遍性。</p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
     
       
   
@@ -662,106 +373,6 @@
 <p>很多时候，世界观才是你人生轨迹的源头，你相信的世界是什么样的，你追求假设的世界是什么样的，你的人生目标，以及价值输入输出就有了定性，路径其实也就在某个范畴边界了。</p>
 <p>但好在世界观是动态的，你的认知是可以无限否定、可以无限升级的。</p>
 <p>唯有不断的拓宽自己的认知边界，也许才可能触及到这个世界本来的真实性吧。</p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-    
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220520/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="ONE">
-      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="ONEVIEW">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/zh-CN/20220520/" class="post-title-link" itemprop="url">夫知者不言，言者不知</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2022-06-19 00:00:00" itemprop="dateCreated datePublished" datetime="2022-06-19T00:00:00+08:00">2022-06-19</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2024-08-12 23:06:22" itemprop="dateModified" datetime="2024-08-12T23:06:22+08:00">2024-08-12</time>
-              </span>
-
-          <br>
-            <span class="post-meta-item" title="本文字数">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">本文字数：</span>
-              <span>415</span>
-            </span>
-            <span class="post-meta-item" title="阅读时长">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>2 分钟</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>「天道·知道」</p>
-<p>看完《天道》后，竟然无意中看到一段解读《庄子·知北游》，寓言故事大致如下：</p>
-<p>一个叫「知」的问「无为谓」，怎么才算<strong>「知道」、「安道」、「得道」</strong>，无为谓不知道怎么答，然后知又去问「狂屈」，狂屈说知道，可到嘴边又没说；然后知去问「黄帝」，黄帝于是告诉知：无为谓是真知道，狂屈是接近了，而我和你终不得道。</p>
-<p>天道的那句，“你知道你，所以你不是你”，应该是源自这里面的一句话：“<strong>夫知者不言，言者不知。</strong>”同样丁说芮的境地比他高，跟这则寓言的故事一样。</p>
-<p>有意思的是，我读《知北游》的时候，对「知道」这个概念愣了一下，查了下百科竟然有5种意思：</p>
-<ol>
-<li><p>谓通晓天地知道，神明人世之理。</p>
-</li>
-<li><p>认识道路。</p>
-</li>
-<li><p>晓得，谓对事物有所了解、认识。</p>
-</li>
-<li><p>公文用语。犹知悉，多见于诏令。</p>
-</li>
-<li><p>犹厉害。</p>
-</li>
-</ol>
-<p>想到日常我们用「知道」，是真的知道了吗？还只是一句口头禅，还只是「收到」、「听到」、「看到」等，真正有没有「知」，有没有理解其中的「道」？</p>
-<p>至于「安道」，还是「得道」，都不重要了，像我这种人开了这扇门，一旦开始思考了、追寻了这个「道」，用庄子说的，终不得吧。</p>
-<p>若干年前，读禅宗山水的三种境地，想始终无法明白第三种境地，更无从进入第三境地，想来，最高的境界还是：看山是山、看水是水。</p>
-<p>自然至极，毫无雕琢，不可得。</p>
 
       
     </div>
@@ -1151,10 +762,399 @@
   
   
 
+    
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220529/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="ONE">
+      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ONEVIEW">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/zh-CN/20220529/" class="post-title-link" itemprop="url">目标固然重要，实现目标的人才是关键</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-05-29 00:00:00" itemprop="dateCreated datePublished" datetime="2022-05-29T00:00:00+08:00">2022-05-29</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2024-08-13 17:32:20" itemprop="dateModified" datetime="2024-08-13T17:32:20+08:00">2024-08-13</time>
+              </span>
+
+          <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>870</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>3 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>「目标」</p>
+<p>《老板不知道的我》里讲到一段：我觉得管理者，</p>
+<ol>
+<li><p>不能用自己的目标吃掉大家的目标。</p>
+</li>
+<li><p>不能用结果的目标吃掉过程的目标。</p>
+</li>
+<li><p>不能用经济的目标吃掉情绪的目标。</p>
+</li>
+</ol>
+<p>我们经常听到，结果导向或者职场上情绪不重要，是这样的吗？</p>
+<p>上面三个目标管理的观点，是我比较认同的，也是最近几年觉得非常值得思考和转变的目标管理方向。</p>
+<p>结果重要吗，很重要，而忽略过程的事实求是，现在在我看来就是一场耍流氓。</p>
+<p>10年前互联网的那个时代，大家都很拼，也遗留下了互联网的这种996恶习。我们应该不断地去花时间学习，怎么做好时间管理、精力管理，而不应该不断地去卷怎么延长工作时长，甚至做一些无效的工作。</p>
+<p>很多事情并不能在规定时间很好解决的，要使视人为人，要考虑人性，要事实求是，要考虑境地，要不断总结实践和迭代改进。</p>
+<p>项目任务管理中，不管敏捷、Scrum还是什么方法，我觉得一直最重要的两个点：</p>
+<p>1.「反馈透明」：所有协作者应该对任务进度反馈有知情权。</p>
+<ol start="2">
+<li>「能力预估」：所有协作者应该对自我能力和合作者能力有预判，越接近越好。</li>
+</ol>
+<p>如果这两个没做好，只追求结果就是一场无尽的噩梦，无限的死循环。</p>
+<p>这些年我带过团队，开过公司，也可能是老了，喜欢做的两件事，一是很喜欢跟年轻人聊天，二是喜欢带新人，也愿意尽可能的给他们提供好的工作成长环境。</p>
+<p>为什么这样做？一是我相信公司始终不是某个人的公司，不是老板的公司，不是中高管的公司，公司的首要目标是要服务客户和用户需求。二是，我相信未来是属于年轻人的，而老板还是高管，顶多只是一个角色，一个引路者，开拓者。</p>
+<p>套用一句话，社会是人民的。</p>
+<p>新人在成长的过程中，和团队和公司的目标就很难保持一致，这也就是OKR为什么要分层，不同层级的O是不一样的，但只要顶层的O是一致就没问题。</p>
+<p>最后，情绪重要吗？很多时候我们太容易忽略人的感受了，如果我的工作因为太多一些条件资源不足，环境不公平，或者一些乱七八糟的事儿，我工作不愉快，我的投入肯定大大折损的。要平抚这些情绪需要消耗巨大的精力，甚至可能长久了会是一颗隐形的炸弹。</p>
+<p>我们总是在考虑成本，显性成本很重要，但隐性成本也不能忽视，很多时候人才是公司的未来，而人能在开心顺畅的环境下工作生活才能最高的发挥能动性，也是降低成本的一种方式。</p>
+<p>公司是需要发展的，未来是属于年轻人的。</p>
+<p>目标固然重要，实现目标的人才是关键，让合适的人最大极限的完成目标才是关键。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+    
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220508/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="ONE">
+      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ONEVIEW">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/zh-CN/20220508/" class="post-title-link" itemprop="url">很多时候我们说的概念只不过是口头禅而已</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-05-28 00:00:00" itemprop="dateCreated datePublished" datetime="2022-05-28T00:00:00+08:00">2022-05-28</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2024-08-13 14:54:27" itemprop="dateModified" datetime="2024-08-13T14:54:27+08:00">2024-08-13</time>
+              </span>
+
+          <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>525</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>2 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>「实事求是」</p>
+<p>如果一句话讲来讲去，讲到最后不知道它是什么意思，这个可能是口头禅。</p>
+<p>高中的时候，我们搞过一次辩论会，在具体的论题辩证的时候，双方一直在谈论世界观，最后突然对方同学说到，我们总是在说「世界观」，那请我方讲一些什么是世界观，我方一下懵了，没回答上来。当时是在教室里，全班同学都在，班主任全程也在旁听没说话，唯独这个问题问出来的时候，直接鼓掌叫好。</p>
+<p>那次辩论会对我印象都很深刻，其中一个就是具体的这个问题，什么是世界观；另外一个就是，如果我们很多认知概念固意为很懂得很了解，张口就来，其实很多时候不过一句口头禅而已，没有用心，没有做深入的思考。</p>
+<p>什么是实事求是？</p>
+<p>《汉书·河间献王刘德传》记:“修学好古，实事求是。”</p>
+<p>毛泽东也对「实事求是」做了一次讲解<strong>：“实事”就是客观存在着的一切事物，“是”就是客观事物的内部联系，即规律性，“求”就是我们去研究。</strong></p>
+<p>很多时候，我们在看待问题解决问题都是从主观意识出发，只凭经验感觉，没有调查，甚至依照毫无根据的信息来源。</p>
+<p>什么是事实，什么是观点，什么是客观，什么是主观，只有基于这些客观的事实，我们才能理性的分析问题，解决问题，所谓的思考能力，批判思维的基础就是要基于事实的，我们总是讲乌合之众，有时候也讲集体智慧，这个都不重要，重要的是背后的结论是基于事实的，还是基于观点给的。</p>
+<p>你理解的世界是什么样的，你相信的世界应该是什么样的，试着慢慢清楚这些，很多问题就迎刃而解了。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+    
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220520/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="ONE">
+      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ONEVIEW">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/zh-CN/20220520/" class="post-title-link" itemprop="url">夫知者不言，言者不知</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-05-20 00:00:00" itemprop="dateCreated datePublished" datetime="2022-05-20T00:00:00+08:00">2022-05-20</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2024-08-13 17:32:21" itemprop="dateModified" datetime="2024-08-13T17:32:21+08:00">2024-08-13</time>
+              </span>
+
+          <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>415</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>2 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>「天道·知道」</p>
+<p>看完《天道》后，竟然无意中看到一段解读《庄子·知北游》，寓言故事大致如下：</p>
+<p>一个叫「知」的问「无为谓」，怎么才算<strong>「知道」、「安道」、「得道」</strong>，无为谓不知道怎么答，然后知又去问「狂屈」，狂屈说知道，可到嘴边又没说；然后知去问「黄帝」，黄帝于是告诉知：无为谓是真知道，狂屈是接近了，而我和你终不得道。</p>
+<p>天道的那句，“你知道你，所以你不是你”，应该是源自这里面的一句话：“<strong>夫知者不言，言者不知。</strong>”同样丁说芮的境地比他高，跟这则寓言的故事一样。</p>
+<p>有意思的是，我读《知北游》的时候，对「知道」这个概念愣了一下，查了下百科竟然有5种意思：</p>
+<ol>
+<li><p>谓通晓天地知道，神明人世之理。</p>
+</li>
+<li><p>认识道路。</p>
+</li>
+<li><p>晓得，谓对事物有所了解、认识。</p>
+</li>
+<li><p>公文用语。犹知悉，多见于诏令。</p>
+</li>
+<li><p>犹厉害。</p>
+</li>
+</ol>
+<p>想到日常我们用「知道」，是真的知道了吗？还只是一句口头禅，还只是「收到」、「听到」、「看到」等，真正有没有「知」，有没有理解其中的「道」？</p>
+<p>至于「安道」，还是「得道」，都不重要了，像我这种人开了这扇门，一旦开始思考了、追寻了这个「道」，用庄子说的，终不得吧。</p>
+<p>若干年前，读禅宗山水的三种境地，想始终无法明白第三种境地，更无从进入第三境地，想来，最高的境界还是：看山是山、看水是水。</p>
+<p>自然至极，毫无雕琢，不可得。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+    
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220518/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="ONE">
+      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ONEVIEW">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/zh-CN/20220518/" class="post-title-link" itemprop="url">你不知道你，所以你是你</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-05-18 00:00:00" itemprop="dateCreated datePublished" datetime="2022-05-18T00:00:00+08:00">2022-05-18</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2024-08-13 15:22:02" itemprop="dateModified" datetime="2024-08-13T15:22:02+08:00">2024-08-13</time>
+              </span>
+
+          <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>479</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>2 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>「天道·境界」</p>
+<p>今天把《天道》看完了，再次看的时候最后竟然有两个场景几近哭泣：</p>
+<p>一个是芮小丹打算不去读律师，准备写小说，问了丁元英三个问题，丁一一解答，芮说当她决定想把「文化属性」通过小说等艺术的形式表达出来时候，有无尽的动力。丁举杯敬芮的「悟」的时候，我完全触动到了。</p>
+<p>另外一个是芮牺牲后，丁对着芮给她的照片说到：“当生则生，当死则死，来去自如，丫头，不简单啊。”这个「不简单啊」，直接破防到哽咽。</p>
+<p>丁以前跟芮说，她的境界比他高，芮不理解，觉得丁好像是有意抬高她，可丁真的是认为芮的境界比她高，甚至是丁不可达的境地。丁说他是想活明白，活得扭捏，而芮是率性洒脱。</p>
+<p>丁能懂芮，芮能懂丁。</p>
+<p>丁给芮说过了两句很玄的话：“你不知道你，所以你是你；如果你知道了你，你就不是你了。”</p>
+<p>这话芮一直没明白，而芮也无需明白，也正是因为这个不知，芮才是芮。</p>
+<p>天道里面讲丁很神，是透过文化属性，看透人性的人，是悟了道的人。可有时候悲哀的是，有人修得一生，曲曲折折，磕磕碰碰好像是得了道，甚至不可得，可有人却是不用修不用悟就得了道的人，丁是前者，芮是后者。</p>
+<p>有人绕了一圈看山是山，看水是水，有人第一眼看山就是山，看水就是水。</p>
+<p>不可得。</p>
+<p>对自己有深刻的认知是一件很重要的事儿，活出自己也很重要，但很多人都是在<strong>追寻</strong>活出自己，而有的人就是在活出自己。</p>
+<p>活出自己吧。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
 
   
   <nav class="pagination">
-    <a class="extend prev" rel="prev" href="/page/2/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><span class="space">&hellip;</span><a class="page-number" href="/page/6/">6</a><a class="extend next" rel="next" href="/page/4/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+    <a class="extend prev" rel="prev" href="/page/2/"><i class="fa fa-angle-left" aria-label="上一页"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><a class="page-number" href="/page/5/">5</a><a class="extend next" rel="next" href="/page/4/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
   </nav>
 
 
@@ -1227,7 +1227,7 @@
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-count">4</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -1322,6 +1322,10 @@
   
 
 
+
+
+  
+<script src="/js/local-search.js"></script>
 
 
 

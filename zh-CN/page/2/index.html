@@ -17,7 +17,7 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"oneview.cc","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
+    var CONFIG = {"hostname":"oneview.cc","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
   <meta name="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discus">
@@ -104,6 +104,7 @@
 
   <div class="site-nav-right">
     <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -134,11 +135,38 @@
     <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
 
   </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
   </ul>
 </nav>
 
 
 
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
 
 </div>
     </header>
@@ -157,101 +185,6 @@
 
           <div class="content index posts-expand">
             
-    
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220907/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.gif">
-      <meta itemprop="name" content="ONE">
-      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="ONEVIEW">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/zh-CN/20220907/" class="post-title-link" itemprop="url">Stay Hungry, Stay Foolish</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2022-09-07 00:00:00" itemprop="dateCreated datePublished" datetime="2022-09-07T00:00:00+08:00">2022-09-07</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2024-08-12 22:53:46" itemprop="dateModified" datetime="2024-08-12T22:53:46+08:00">2024-08-12</time>
-              </span>
-
-          <br>
-            <span class="post-meta-item" title="本文字数">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-                <span class="post-meta-item-text">本文字数：</span>
-              <span>606</span>
-            </span>
-            <span class="post-meta-item" title="阅读时长">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-                <span class="post-meta-item-text">阅读时长 &asymp;</span>
-              <span>2 分钟</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p>「笔记侠」</p>
-<p>现在全球都处在一个不确定性的时代，而对抗不确定一种非常好的方式，其实就是不断地学习，与时俱进，更迭自己的认知结构。</p>
-<p>我在笔记侠训练营15期跟大家分享了三点：</p>
-<p>第一点：<strong>以终为始，持续精进</strong>。</p>
-<p>虽然笔记侠的训练营毕业了，但也会有新的一个目标等待着去完成，真正的实践才开始。</p>
-<p>比如，怎么把自己学到的工具和方法应用到生活中、工作中，让自己和身边的小伙伴受益更多。训练营过程中，很多小伙伴也都开始应用起来了。</p>
-<p>学习实践，知行合一是一个持续刻意练习，不断精进的过程。</p>
-<p>第二点：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1oW411h7Ea"><strong>Stay Hungry, Stay Foolish</strong></a>。</p>
-<p>这句是来自乔布斯当年坦福大学毕业典礼上的演讲，我非常喜欢这句话，中文的直译是「求知若饥，虚怀若愚」。</p>
-<p>我自己对这句话的理解是，我们可以时刻保持一颗好奇心，不断地探索世界的有知与未知，去发现这个世界更多的精彩瞬间；</p>
-<p>同时也要一个谦卑的姿态，空杯的心态，尊重自己、尊重他人、尊重世界。</p>
-<p>因为每个人的视角可能都是片面的，新的视角也会让自己让世界变得更精彩。</p>
-<p>第三点：<strong>雕琢自我，普惠他人</strong>。</p>
-<p>这是笔记侠的核心价值观，我非常认同，当时为了进笔记侠训练营，因为快过年了新营一直没开始，就苦苦追了小师妹好几个月。后来终于如愿成为11期的学员，12期又邀请我团队的小伙伴学习，13期、14期、包括现在15期做了助教。这期间不论我是学员还是助教，每次都能收获不少，也认识了很多优秀的小伙伴。</p>
-<p>笔记侠全国有4000多达人，可能正是因为这种共同的价值观大家聚集到了一起，未来应该也会遇见更多的小伙伴，在这里可以不断的跟优秀的小伙伴学习交流，同时也会慢慢把学会的觉得不错的分享给更多的小伙伴、同事、朋友。</p>
-<p>这是一种连接，也是一种传承。</p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
     
       
   
@@ -1191,6 +1124,110 @@
   
   
 
+    
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://oneview.cc/zh-CN/20220630/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="ONE">
+      <meta itemprop="description" content="Oneview is a personal blog that delves into the depths of philosophy, both Eastern and Western, psychology, and the core principles that shape our worldview—truth, goodness, and beauty. Through discussions on music, reading, personal growth, and artificial intelligence, the blog provides a thoughtful space for reflection and exploration in both English and Chinese.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ONEVIEW">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/zh-CN/20220630/" class="post-title-link" itemprop="url">抽象的三个层次</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-06-30 00:00:00" itemprop="dateCreated datePublished" datetime="2022-06-30T00:00:00+08:00">2022-06-30</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2024-08-12 23:12:50" itemprop="dateModified" datetime="2024-08-12T23:12:50+08:00">2024-08-12</time>
+              </span>
+
+          <br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>820</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>3 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <p>「抽象」</p>
+<p>最近给新同事培训复盘笔记的时候发现了一个普遍现象：大部分人在记笔记的时候都很容易一堆一堆地输出来，恨不得把听到的内容或者做得事儿挨个字噼里啪啦的全记下来。</p>
+<p>结果就是，很难从笔记中发现重点，更不容易清晰地复述自己的内容。</p>
+<p>这里面主要有个方法可以练习：那就是对自己的输出进行不断的提炼抽象分类。</p>
+<p>刚好这两天也看到《傅佩荣的西方哲学课》讲到了三层抽象：</p>
+<ol>
+<li><p>物理抽象</p>
+</li>
+<li><p>数学抽象</p>
+</li>
+<li><p>形而上抽象</p>
+</li>
+</ol>
+<p>这里面主要有一个我觉得思维比较有意思的地方，其实还是现实到意识，客观到主观的一个反映。</p>
+<p><strong>物理抽象，就是把它的物理特性、个别的东西去掉。</strong></p>
+<p>譬如你现在说：“我看到一辆车”。你看到车，你称它为车，但这辆车跟别的车不一样，因为天下没有两辆一样的车。你说这是车，就代表什么？你把物理特性去掉了。换句话说，物理抽象是人的理性的本能的运作。</p>
+<p>一个小孩子看图片，看到一只狮子的画，在书上看起来跟猫差不多大小，他到动物园一看就知道那是一只狮子。为什么？他有物理抽象能力，他不会说：“这跟我书上看的平面的那个狮子不一样。”你不用担心，人作为人，他的理性就有这样的能力，叫做物理抽象。</p>
+<p><strong>你如果没有物理抽象的能力，你永远只能看个别性、个体性、特殊性，而不能说这是车，因为天下没有所谓的车，每辆车都不一样。</strong></p>
+<p>有时候我们经常说透过现象看本质，就是一种透过个性看共性的一种整体思维、宏观思维、系统思维的能力。</p>
+<p>当我们谈论人类的时候，我们不是在谈论某一个具体的人。</p>
+<p><strong>数学抽象，我觉得可以用另外一个概念来表示，数学建模，</strong>就是对现实世界的一个代数几何的抽象。比如计算机的0&#x2F;1信息表示、山水画简约画等等。</p>
+<p><strong>形而上抽象</strong>，不问这是什么东西，也不问能不能计算，<strong>只问“你存在吗？”</strong> 只要是存在的都是一样的，譬如说有一张桌子存在，还有太阳，还有月亮，还有房屋，它们都是一样的。</p>
+<p>亚里士多德谈到形而上学的时候，他用一句话“把存在之物当作存在之物来看”，而不要看它是不是苹果，是不是圆形的东西，不要看那些，只看它是不是存在。</p>
+<p>每一层抽象都是一个升维的过程，维度越高信息的压缩比其实更大，简练但涵盖的信息却更大，这也就是我们在经常记笔记容易忽略的。</p>
+<p>我们如果更容易提炼抽象，也就更能把握事物的特性要点，进而可以推断普遍性。</p>
+
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
 
   
   <nav class="pagination">
@@ -1267,7 +1304,7 @@
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">3</span>
+        <span class="site-state-item-count">4</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -1362,6 +1399,10 @@
   
 
 
+
+
+  
+<script src="/js/local-search.js"></script>
 
 
 
