@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ONEVIEW</title>
+  <title>ONEVIEW - Keep it simple.</title>
   
-  <subtitle>Keep it simple.</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>Insights on Philosophy, Psychology, and Growth</subtitle>
+  <link href="http://oneview.cc/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://oneview.cc/"/>
   <updated>2024-08-12T07:50:45.741Z</updated>
-  <id>http://example.com/</id>
+  <id>http://oneview.cc/</id>
   
   <author>
     <name>ONE</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Pure</title>
-    <link href="http://example.com/en/pure/"/>
-    <id>http://example.com/en/pure/</id>
+    <link href="http://oneview.cc/en/pure/"/>
+    <id>http://oneview.cc/en/pure/</id>
     <published>2023-08-26T04:07:11.000Z</published>
     <updated>2024-08-12T07:50:45.741Z</updated>
     
@@ -37,38 +37,9 @@
   </entry>
   
   <entry>
-    <title>本源</title>
-    <link href="http://example.com/zh-CN/2022030602/"/>
-    <id>http://example.com/zh-CN/2022030602/</id>
-    <published>2023-08-26T04:07:11.000Z</published>
-    <updated>2024-08-12T14:35:47.911Z</updated>
-    
-    <content type="html"><![CDATA[<p>「问题·本源」</p><ol><li><p>宇宙是什么样的？(Universe)</p></li><li><p>人类是什么样的，人类文明又是什么样的？(Human)</p></li><li><p>我又是怎么样的？(Ego)</p></li></ol><p>我可能一直在探索的两个问题：</p><ol><li><p>生命的意义是什么？</p></li><li><p>内心如何安宁？</p></li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;「问题·本源」&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;宇宙是什么样的？(Universe)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;人类是什么样的，人类文明又是什么样的？(Human)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;我又是怎么样的？(Ego)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>我就是我，是颜色不一样的烟火</title>
-    <link href="http://example.com/zh-CN/20220416/"/>
-    <id>http://example.com/zh-CN/20220416/</id>
+    <link href="http://oneview.cc/zh-CN/20220416/"/>
+    <id>http://oneview.cc/zh-CN/20220416/</id>
     <published>2023-08-26T04:07:11.000Z</published>
     <updated>2024-08-12T15:11:31.988Z</updated>
     
@@ -90,8 +61,8 @@
   
   <entry>
     <title>很多时候我们说的概念只不过是口头禅而已</title>
-    <link href="http://example.com/zh-CN/20220508/"/>
-    <id>http://example.com/zh-CN/20220508/</id>
+    <link href="http://oneview.cc/zh-CN/20220508/"/>
+    <id>http://oneview.cc/zh-CN/20220508/</id>
     <published>2023-08-26T04:07:11.000Z</published>
     <updated>2024-08-12T15:09:14.204Z</updated>
     
@@ -112,8 +83,8 @@
   
   <entry>
     <title>线索</title>
-    <link href="http://example.com/zh-CN/20220518/"/>
-    <id>http://example.com/zh-CN/20220518/</id>
+    <link href="http://oneview.cc/zh-CN/20220518/"/>
+    <id>http://oneview.cc/zh-CN/20220518/</id>
     <published>2023-08-26T04:07:11.000Z</published>
     <updated>2024-08-12T14:38:43.082Z</updated>
     
@@ -134,8 +105,8 @@
   
   <entry>
     <title>目标固然重要，实现目标的人才是关键</title>
-    <link href="http://example.com/zh-CN/20220529/"/>
-    <id>http://example.com/zh-CN/20220529/</id>
+    <link href="http://oneview.cc/zh-CN/20220529/"/>
+    <id>http://oneview.cc/zh-CN/20220529/</id>
     <published>2023-08-26T04:07:11.000Z</published>
     <updated>2024-08-12T15:24:21.436Z</updated>
     
@@ -161,8 +132,8 @@
   
   <entry>
     <title>保持简单，保持热爱</title>
-    <link href="http://example.com/zh-CN/20220929/"/>
-    <id>http://example.com/zh-CN/20220929/</id>
+    <link href="http://oneview.cc/zh-CN/20220929/"/>
+    <id>http://oneview.cc/zh-CN/20220929/</id>
     <published>2023-08-26T04:07:11.000Z</published>
     <updated>2024-08-12T15:02:51.875Z</updated>
     
@@ -183,8 +154,8 @@
   
   <entry>
     <title>Simple</title>
-    <link href="http://example.com/en/simple/"/>
-    <id>http://example.com/en/simple/</id>
+    <link href="http://oneview.cc/en/simple/"/>
+    <id>http://oneview.cc/en/simple/</id>
     <published>2023-08-25T18:48:01.000Z</published>
     <updated>2024-08-12T07:50:45.741Z</updated>
     
@@ -203,8 +174,8 @@
   
   <entry>
     <title>是什么曾经拯救过你，你最好就试着用它来拯救这个世界</title>
-    <link href="http://example.com/zh-CN/20220527/"/>
-    <id>http://example.com/zh-CN/20220527/</id>
+    <link href="http://oneview.cc/zh-CN/20220527/"/>
+    <id>http://oneview.cc/zh-CN/20220527/</id>
     <published>2023-05-26T16:00:00.000Z</published>
     <updated>2024-08-12T15:16:39.143Z</updated>
     
@@ -226,8 +197,8 @@
   
   <entry>
     <title>思维的过程是一个运用概念、判断、推理的过程</title>
-    <link href="http://example.com/zh-CN/20220430/"/>
-    <id>http://example.com/zh-CN/20220430/</id>
+    <link href="http://oneview.cc/zh-CN/20220430/"/>
+    <id>http://oneview.cc/zh-CN/20220430/</id>
     <published>2023-04-29T16:00:00.000Z</published>
     <updated>2024-08-12T15:10:13.553Z</updated>
     
@@ -249,8 +220,8 @@
   
   <entry>
     <title>假设这个世界是可以理解的，那它的理解之处在哪儿？</title>
-    <link href="http://example.com/zh-CN/20230106/"/>
-    <id>http://example.com/zh-CN/20230106/</id>
+    <link href="http://oneview.cc/zh-CN/20230106/"/>
+    <id>http://oneview.cc/zh-CN/20230106/</id>
     <published>2023-01-05T16:00:00.000Z</published>
     <updated>2024-08-12T15:03:35.535Z</updated>
     
@@ -274,8 +245,8 @@
   
   <entry>
     <title>人类为什么会问为什么？</title>
-    <link href="http://example.com/zh-CN/20221106/"/>
-    <id>http://example.com/zh-CN/20221106/</id>
+    <link href="http://oneview.cc/zh-CN/20221106/"/>
+    <id>http://oneview.cc/zh-CN/20221106/</id>
     <published>2022-11-05T16:00:00.000Z</published>
     <updated>2024-08-12T14:57:35.567Z</updated>
     
@@ -300,8 +271,8 @@
   
   <entry>
     <title>让子弹飞一会儿</title>
-    <link href="http://example.com/zh-CN/20221017/"/>
-    <id>http://example.com/zh-CN/20221017/</id>
+    <link href="http://oneview.cc/zh-CN/20221017/"/>
+    <id>http://oneview.cc/zh-CN/20221017/</id>
     <published>2022-10-16T16:00:00.000Z</published>
     <updated>2024-08-12T15:31:14.996Z</updated>
     
@@ -322,8 +293,8 @@
   
   <entry>
     <title>最高深的智慧，往往隐于最纯粹的心灵之中</title>
-    <link href="http://example.com/zh-CN/20220926/"/>
-    <id>http://example.com/zh-CN/20220926/</id>
+    <link href="http://oneview.cc/zh-CN/20220926/"/>
+    <id>http://oneview.cc/zh-CN/20220926/</id>
     <published>2022-09-25T16:00:00.000Z</published>
     <updated>2024-08-12T15:17:39.709Z</updated>
     
@@ -343,8 +314,8 @@
   
   <entry>
     <title>TinyNote</title>
-    <link href="http://example.com/zh-CN/TinyNote/"/>
-    <id>http://example.com/zh-CN/TinyNote/</id>
+    <link href="http://oneview.cc/zh-CN/TinyNote/"/>
+    <id>http://oneview.cc/zh-CN/TinyNote/</id>
     <published>2022-09-25T16:00:00.000Z</published>
     <updated>2024-08-12T15:36:38.089Z</updated>
     
@@ -366,8 +337,8 @@
   
   <entry>
     <title>子非我，安知我不知鱼之乐</title>
-    <link href="http://example.com/zh-CN/20220918/"/>
-    <id>http://example.com/zh-CN/20220918/</id>
+    <link href="http://oneview.cc/zh-CN/20220918/"/>
+    <id>http://oneview.cc/zh-CN/20220918/</id>
     <published>2022-09-17T16:00:00.000Z</published>
     <updated>2024-08-12T15:07:25.895Z</updated>
     
@@ -387,8 +358,8 @@
   
   <entry>
     <title>Stay Hungry, Stay Foolish</title>
-    <link href="http://example.com/zh-CN/20220907/"/>
-    <id>http://example.com/zh-CN/20220907/</id>
+    <link href="http://oneview.cc/zh-CN/20220907/"/>
+    <id>http://oneview.cc/zh-CN/20220907/</id>
     <published>2022-09-06T16:00:00.000Z</published>
     <updated>2024-08-12T14:53:46.709Z</updated>
     
@@ -410,8 +381,8 @@
   
   <entry>
     <title>哲学不是什么</title>
-    <link href="http://example.com/zh-CN/20220814/"/>
-    <id>http://example.com/zh-CN/20220814/</id>
+    <link href="http://oneview.cc/zh-CN/20220814/"/>
+    <id>http://oneview.cc/zh-CN/20220814/</id>
     <published>2022-08-13T16:00:00.000Z</published>
     <updated>2024-08-12T14:52:59.432Z</updated>
     
@@ -433,8 +404,8 @@
   
   <entry>
     <title>是世界选择了我，还是我选择了世界</title>
-    <link href="http://example.com/zh-CN/20220812/"/>
-    <id>http://example.com/zh-CN/20220812/</id>
+    <link href="http://oneview.cc/zh-CN/20220812/"/>
+    <id>http://oneview.cc/zh-CN/20220812/</id>
     <published>2022-08-11T16:00:00.000Z</published>
     <updated>2024-08-12T15:15:57.506Z</updated>
     
@@ -459,8 +430,8 @@
   
   <entry>
     <title>科学就是确定我们未知的事物</title>
-    <link href="http://example.com/zh-CN/20220806/"/>
-    <id>http://example.com/zh-CN/20220806/</id>
+    <link href="http://oneview.cc/zh-CN/20220806/"/>
+    <id>http://oneview.cc/zh-CN/20220806/</id>
     <published>2022-08-05T16:00:00.000Z</published>
     <updated>2024-08-12T15:27:28.708Z</updated>
     
@@ -474,6 +445,31 @@
 &lt;p&gt;—[04:03]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cooper:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Well, it’s not v</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>不要因为走得太远而忘记为什么出发</title>
+    <link href="http://oneview.cc/zh-CN/20220730/"/>
+    <id>http://oneview.cc/zh-CN/20220730/</id>
+    <published>2022-07-29T16:00:00.000Z</published>
+    <updated>2024-08-12T14:55:29.140Z</updated>
+    
+    <content type="html"><![CDATA[<p>「从A到B」</p><p>最近在读《成为超级学习者》这本书，主要讲的是通过老师的视角来探讨学习，很棒的一个视角。</p><p>其中有一个教学法：<strong>探究式教学法</strong>。</p><p>也提到，当我们思考一个问题会问：</p><ol><li><p>这是什么？</p></li><li><p>它是如何工作的？</p></li><li><p>为什么X、Y、Z?</p></li><li><p>接下来会发生什么？</p></li><li><p><strong>怎样才能从A到B</strong>？</p></li></ol><p>这是一个很不错的问题思考范式，是一个「2W1H」的拓展。</p><p>最近14期的笔记侠训练营和公司新员工解决问题时候，我发现大家很容易出现这个问题，不清晰什么是从A到B。</p><p>比如，训练营学员有很多都是冲着学分、笔记达人，或者是冲着非常漂亮的竖版思维导图、知识卡片去的，不少学员每天都在讨论各种工具使用的具体方法，极少数的学员关注到了笔记背后的逻辑、为什么记笔记，以及笔记能带给我们什么。</p><p>再比如，有软件工程师在编程的时候，很容易忘记需求是什么，特别是技术遇到瓶颈时，问题一直解决不了，最后时间过去，任务完成不了。</p><p>一问，卡在某个技术问题上很久了，一直在解决一个具体的技术细节问题，而不是一个业务问题，再一问，这个换个人工可能几分钟就解决了。</p><p>这个时候如果有一张A4的纸，一支笔，简单的在笔上先梳理下问题，确定一下那个B，其实可能会有新的答案。</p><p>我有时候总是想，这个世界虽然很复杂，但有时候其实也很简单，简单到你一眼就看到了终点。</p><p>只是，这个达到终点的路径有的人很径直，有的人很曲折，甚至直到时间的尽头都没有达到。</p><p>“We already walked too far, down to we had forgotten why embarked.” – 纪伯伦</p><p>很多年前知道这句话， 是因为柴静的《看见》，然后找到了《不要因为走得太远而忘记为什么出发：陈虻，我们听你讲》，这本书也不错。</p><p>越是忙，越是焦虑的时候，越应该停下来思考一下，想想那些初心。</p><p>至于什么是A，什么又是B，又如何从A快捷地达到B，这可能需要人生的各种经验阅历的思考和实践。</p><p>但试着停下来想想，一天两天，总在某个契机会出现答案的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;「从A到B」&lt;/p&gt;
+&lt;p&gt;最近在读《成为超级学习者》这本书，主要讲的是通过老师的视角来探讨学习，很棒的一个视角。&lt;/p&gt;
+&lt;p&gt;其中有一个教学法：&lt;strong&gt;探究式教学法&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;也提到，当我们思考一个问题会问：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;</summary>
       
     
     
