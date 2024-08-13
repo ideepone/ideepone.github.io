@@ -1,3 +1,5 @@
+http://oneview.cc/en/20221106/
+http://oneview.cc/zh-CN/20221106/
 http://oneview.cc/en/20230106/
 http://oneview.cc/zh-CN/20230106/
 http://oneview.cc/zh-CN/TinyNote/
@@ -7,7 +9,6 @@ http://oneview.cc/zh-CN/2022030604/
 http://oneview.cc/zh-CN/2022030603/
 http://oneview.cc/zh-CN/2022030602/
 http://oneview.cc/zh-CN/2022030601/
-http://oneview.cc/zh-CN/20221106/
 http://oneview.cc/zh-CN/20221017/
 http://oneview.cc/zh-CN/20220929/
 http://oneview.cc/zh-CN/20220926/
@@ -52,9 +53,10 @@ http://oneview.cc/tags/index.html
 http://oneview.cc/en/2022030602/
 http://oneview.cc/zh-CN/20220416/
 http://oneview.cc/zh-CN/20220630/
-http://oneview.cc/en/pure/
 http://oneview.cc/en/simple/
+http://oneview.cc/en/pure/
 http://oneview.cc/
+http://oneview.cc/tags/Causality/
 http://oneview.cc/tags/Probability/
 http://oneview.cc/tags/%E4%BA%8B%E5%AE%9E/
 http://oneview.cc/tags/%E8%A7%82%E7%82%B9/
@@ -63,6 +65,7 @@ http://oneview.cc/tags/%E5%A4%A9%E9%81%93/
 http://oneview.cc/tags/%E6%96%87%E5%8C%96/
 http://oneview.cc/tags/%E5%A2%83%E7%95%8C/
 http://oneview.cc/tags/%E7%9B%AE%E6%A0%87/
+http://oneview.cc/tags/%E5%9B%A0%E6%9E%9C/
 http://oneview.cc/tags/%E6%A6%82%E7%8E%87/
 http://oneview.cc/categories/Times/
 http://oneview.cc/categories/%E6%97%B6%E5%85%89%E9%9B%86/
