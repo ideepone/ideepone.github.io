@@ -50,8 +50,8 @@ http://oneview.cc/zh-CN/20220730/
 http://oneview.cc/zh-CN/20220511/
 http://oneview.cc/zh-CN/20220907/
 http://oneview.cc/zh-CN/20220814/
-http://oneview.cc/en/pure/
 http://oneview.cc/en/simple/
+http://oneview.cc/en/pure/
 http://oneview.cc/
 http://oneview.cc/tags/%E5%A4%A9%E9%81%93/
 http://oneview.cc/tags/%E6%96%87%E5%8C%96/
