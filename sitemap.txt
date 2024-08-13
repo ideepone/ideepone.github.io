@@ -53,8 +53,8 @@ http://oneview.cc/tags/index.html
 http://oneview.cc/en/2022030602/
 http://oneview.cc/zh-CN/20220416/
 http://oneview.cc/zh-CN/20220630/
-http://oneview.cc/en/simple/
 http://oneview.cc/en/pure/
+http://oneview.cc/en/simple/
 http://oneview.cc/
 http://oneview.cc/tags/Causality/
 http://oneview.cc/tags/Probability/
