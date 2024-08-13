@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://oneview.cc/en/20230106/</loc>
+    
+    <lastmod>2024-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/zh-CN/20230106/</loc>
+    
+    <lastmod>2024-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://oneview.cc/zh-CN/TinyNote/</loc>
     
     <lastmod>2024-08-13</lastmod>
@@ -57,15 +75,6 @@
   
   <url>
     <loc>http://oneview.cc/zh-CN/2022030601/</loc>
-    
-    <lastmod>2024-08-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/zh-CN/20230106/</loc>
     
     <lastmod>2024-08-13</lastmod>
     
@@ -506,6 +515,13 @@
 
   
   <url>
+    <loc>http://oneview.cc/tags/Probability/</loc>
+    <lastmod>2024-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://oneview.cc/tags/%E4%BA%8B%E5%AE%9E/</loc>
     <lastmod>2024-08-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -562,6 +578,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://oneview.cc/categories/Times/</loc>
+    <lastmod>2024-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://oneview.cc/categories/%E6%97%B6%E5%85%89%E9%9B%86/</loc>
