@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Origins</title>
+    <url>/en/2022030602/</url>
+    <content><![CDATA[<p><em>「Origins」</em></p>
+<ol>
+<li><p>What is the universe? (Universe)</p>
+</li>
+<li><p>What are humans, and what is human civilization? (Human)</p>
+</li>
+<li><p>Who am I? (Ego)</p>
+</li>
+</ol>
+<p>Two questions I might have been exploring all along:</p>
+<ol>
+<li><p>What is the meaning of life?</p>
+</li>
+<li><p>How can inner peace be achieved?</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>Origins</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Facts, Opinions, and Emotions</title>
     <url>/en/20220313/</url>
     <content><![CDATA[<p>When we observe and understand the world, or when we describe and communicate, what exactly are we understanding and expressing?</p>
@@ -29,30 +53,6 @@
         <tag>Facts</tag>
         <tag>Opinions</tag>
         <tag>Emotions</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Origins</title>
-    <url>/en/2022030602/</url>
-    <content><![CDATA[<p><em>「Origins」</em></p>
-<ol>
-<li><p>What is the universe? (Universe)</p>
-</li>
-<li><p>What are humans, and what is human civilization? (Human)</p>
-</li>
-<li><p>Who am I? (Ego)</p>
-</li>
-</ol>
-<p>Two questions I might have been exploring all along:</p>
-<ol>
-<li><p>What is the meaning of life?</p>
-</li>
-<li><p>How can inner peace be achieved?</p>
-</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>Origins</tag>
       </tags>
   </entry>
   <entry>
@@ -96,33 +96,6 @@
       </categories>
       <tags>
         <tag>Symbiosis</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>History·Ancestors</title>
-    <url>/en/20220328/</url>
-    <content><![CDATA[<p>Why were those great ancestors, philosophers, and scientists so remarkable?</p>
-<ol>
-<li>Civilization progresses in stages, and each stage’s great figures solved problems by standing on the shoulders of the giants before them. This is one of the core reasons why humanity needs to continue developing and passing on knowledge.</li>
-</ol>
-<p>For example: It was the philosophical and rational thinking of predecessors like Socrates and Aristotle that laid the foundation for logic, upon which all subsequent science is based.</p>
-<ol start="2">
-<li>I believe that every generation of humanity grapples with a few fundamental questions:</li>
-</ol>
-<p>a). Who am I? An exploration of self-awareness.</p>
-<p>b). Who am I with you? An exploration of social relationships.</p>
-<p>c). What is the universe? From astrophysics to microscopic particles, an exploration of the world. All in one.</p>
-<p>I believe that ways of thinking can be cultivated and have a top-level structure, aligning with first principles. Cognition requires accumulation, and with each era—be it the ancient times, the Stone Age, the Mechanical Age, the Electrical Age, or the Information Age—the problems discovered or solved have been continuously advanced based on the technological productivity of the time.</p>
-<p>When we look at individuals within the grand flow of human development, the emergence of great figures is inevitable; they are products of their environment. As for why they were great and we are not (yet), I still believe it comes down to the technological advantages and cognitive awakening brought about by their era’s unique circumstances. I recently revisited Einstein’s “The World As I See It” and have been pondering what they were doing during their time, and why they thought the way they did.</p>
-<p>I am particularly fond of Einstein’s statement that the world is comprehensible.</p>
-<p>There are still many unresolved questions and many scientists continuously researching and exploring the fundamental nature of this world.</p>
-]]></content>
-      <categories>
-        <category>Times</category>
-      </categories>
-      <tags>
-        <tag>History</tag>
-        <tag>Ancestors</tag>
       </tags>
   </entry>
   <entry>
@@ -224,6 +197,33 @@
       </tags>
   </entry>
   <entry>
+    <title>History·Ancestors</title>
+    <url>/en/20220328/</url>
+    <content><![CDATA[<p>Why were those great ancestors, philosophers, and scientists so remarkable?</p>
+<ol>
+<li>Civilization progresses in stages, and each stage’s great figures solved problems by standing on the shoulders of the giants before them. This is one of the core reasons why humanity needs to continue developing and passing on knowledge.</li>
+</ol>
+<p>For example: It was the philosophical and rational thinking of predecessors like Socrates and Aristotle that laid the foundation for logic, upon which all subsequent science is based.</p>
+<ol start="2">
+<li>I believe that every generation of humanity grapples with a few fundamental questions:</li>
+</ol>
+<p>a). Who am I? An exploration of self-awareness.</p>
+<p>b). Who am I with you? An exploration of social relationships.</p>
+<p>c). What is the universe? From astrophysics to microscopic particles, an exploration of the world. All in one.</p>
+<p>I believe that ways of thinking can be cultivated and have a top-level structure, aligning with first principles. Cognition requires accumulation, and with each era—be it the ancient times, the Stone Age, the Mechanical Age, the Electrical Age, or the Information Age—the problems discovered or solved have been continuously advanced based on the technological productivity of the time.</p>
+<p>When we look at individuals within the grand flow of human development, the emergence of great figures is inevitable; they are products of their environment. As for why they were great and we are not (yet), I still believe it comes down to the technological advantages and cognitive awakening brought about by their era’s unique circumstances. I recently revisited Einstein’s “The World As I See It” and have been pondering what they were doing during their time, and why they thought the way they did.</p>
+<p>I am particularly fond of Einstein’s statement that the world is comprehensible.</p>
+<p>There are still many unresolved questions and many scientists continuously researching and exploring the fundamental nature of this world.</p>
+]]></content>
+      <categories>
+        <category>Times</category>
+      </categories>
+      <tags>
+        <tag>History</tag>
+        <tag>Ancestors</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Uncertainty</title>
     <url>/en/20220408/</url>
     <content><![CDATA[<p>People everywhere seek stability, yet the world is often unpredictable.</p>
@@ -268,31 +268,62 @@
       </tags>
   </entry>
   <entry>
-    <title>Habit is a Behavior, and Behavior is Easier to Change</title>
-    <url>/en/20220429/</url>
-    <content><![CDATA[<p>A few days ago, I came across a short psychology video on Douyin from “This Thought Official” titled “What Should You Never Say to Your Child?” It was quite insightful.</p>
-<p>Guest Huang Shiming answered: Negative language at the identity level should not be used.</p>
-<p>For example, if a client says to me, “Hey, teacher, I’m an alcoholic,” and seeks psychological counseling.</p>
-<p>I won’t agree with that. I would say, “Hey, are you saying that you have a habit of drinking?”</p>
-<p><strong>Habit is a behavior, and behavior is easier to change.</strong></p>
-<p>If someone says, “I’m a depressed person.”</p>
-<p>I would respond, “Are you saying you smile a little less than others?”</p>
-<p>If my child says, “Dad, I’m sure I’ll fail. I identify as someone who can’t succeed.”</p>
-<p>I would say, “Oh, are you saying that this time, you might fail?”</p>
-<p>This relaxes the tension (deep breath) and <strong>opens up a space for relaxation, where new things can come in.</strong></p>
-<p>Of course, they might still fail the exam tomorrow, but now we share an alliance, a common intention, to see how things can get a little better than they are now. I become that ally in my child’s eyes, the person they believe in.</p>
-<p>———</p>
-<p>Many times, whether labeling ourselves or others, it’s easy to apply definitive labels, such as “I’m a loser,” or “He’s a bad person.”</p>
-<p>Carrying such a definitive label can be an invisible burden for years, sometimes suffocating. If you’re lucky, you might overcome it, but if not, it can become a vicious cycle.</p>
-<p>Life has no boundaries, there aren’t as many labels as we think, and things shouldn’t be so easily defined. The world isn’t just black and white, good or bad. Often, time is the best companion, and a positive mindset can change a lot.</p>
-<p><a href="https://v.douyin.com/FYG7QEB">Video Source</a></p>
+    <title>I Am What I Am, a Firework of a Different Color</title>
+    <url>/en/20220416/</url>
+    <content><![CDATA[<p><strong>Formal Logic</strong> states that a <strong>concept</strong> is a form of thought that reflects the “unique” attributes (inherent or essential properties) of an object.</p>
+<p>Recently, I’ve been exploring a question: Is there a way for personal breakthrough?</p>
+<p>Continuous learning, organizing notes, building knowledge systems, cognitive awakening, and so on. Yet, I still feel unsettled, as if daily problems remain unsolved, always in doubt, always exploring.</p>
+<p>In work communication between superiors and subordinates, it often seems like you’ve explained something clearly, but the final result differs significantly. When we reflect on it, we often find that there were discrepancies in how we understood certain concepts or things.</p>
+<p>One day, while reading, I came across Einstein’s statement: “The most incomprehensible thing about the world is that it is comprehensible.” Having been puzzled by some issues for a long time, I was deeply moved by the word “comprehensible.”</p>
+<p>Later, I realized that one way to understand the world is through “logic,” through induction and deduction, and the foundation of logic is “concepts.”</p>
+<p>Thus, the paradigm for understanding the world, in my view, becomes quite simple: Have you truly understood a “concept”?</p>
+<p>The most crucial aspect of a concept is its “characteristic,” the key factor that distinguishes it from other things. This understanding makes many problems much clearer.</p>
+<p>The internet often mentions that if you can’t explain your product in one sentence, it’s not a qualified product. In business, this is about “positioning,” while in logic, it’s about “concept” description, a process of “definition.”</p>
+<p>Many people say they can’t express themselves well. The reason for this is often that they haven’t thought things through; it’s a mess. The reason for this mess is unclear logic, and unclear logic is likely due to unclear “concepts.”</p>
+<p>I now enjoy a new way of note-taking with Flomo: just recording “keywords.” This method is quick and efficient. On one hand, it provides a clue and facilitates indexing; on the other hand, it helps practice two logical abilities: “deduction” and “abstraction.” Later, when I have time, I can elaborate on these concepts, possibly leading to a small blog post.</p>
+<p>Deduction involves expanding on a concept, making it more understandable, defining it, or providing examples. Abstraction involves simplifying complex matters, extracting commonalities, and being as concise as possible, which is the foundation of structured expression.</p>
+<p>At last year’s NoteMan Annual Conference, Teacher Ke Zhou specifically mentioned “conceptual thinking,” a way of thinking. I looked it up and found that Huawei’s Teacher Su Guanzhe also frequently discusses it.</p>
+<p><strong>Conceptual Thinking</strong> is the ability to identify the essential characteristics of seemingly unrelated things.</p>
+<p>In this sense, my understanding is that it is a thinking ability that sees the essence through phenomena. But it seems I haven’t explained it very clearly because there are many ways to see the essence through phenomena. This isn’t the unique trait of “conceptual thinking.” I’ve asked Teacher Ke Zhou some questions about this, and I’ll update when I receive new answers.</p>
+<p>Personally, I believe that trying to understand the world is about understanding the concepts of all things. Understanding concepts is understanding the world.</p>
+<p>Leslie Cheung sings, “I am what I am, a firework of a different color.”</p>
+<p>If “I” want to live a brilliant and independent life, I need to have my own characteristics, whether it’s individuality or value output. Having that unique aspect helps you understand “self.”</p>
 ]]></content>
       <categories>
         <category>Times</category>
       </categories>
       <tags>
-        <tag>Labeling</tag>
-        <tag>Definition</tag>
+        <tag>Logic</tag>
+        <tag>Concepts</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Supporting Role or Leading Role?</title>
+    <url>/en/20220420/</url>
+    <content><![CDATA[<p>Life is essentially a journey of playing different roles.</p>
+<p>Many people’s first experience of transformation is the sudden realization that, though they thought they were the main character in their story, they were actually just a supporting role, or even merely a passerby.</p>
+<p>As a child, I used to enjoy watching the main characters in movies. But as I grew older, I found myself more interested in the supporting roles, learning about the growth experiences of the smaller characters.</p>
+<p>If life were a play, and the director only gave you 10 seconds, how would you seize that moment?</p>
+<p>We play many roles throughout our lives, but often, we don’t fully understand these roles. Some roles seem to be handed to us unexpectedly.</p>
+<p>We are born as sons or daughters, we go to school and become students, then we work and become employees, eventually rising to executive roles. We fall in love, get married, and become lovers, then eventually grandparents or take on many other roles.</p>
+<p>But do we truly understand the meaning and responsibility behind each role?</p>
+<p>One of my deepest reflections on roles came when I was first promoted to director. I was excited about the promotion and the raise, but when I started working in that role, managing both up and down the chain was incredibly challenging. For the first few months, I struggled, trying to handle everything personally, unable to prioritize effectively. My boss criticized me, my subordinates pushed back, and my team was in disarray.</p>
+<p>Then one day, I suddenly understood what being a “director” really meant. I grasped the nature of the role, set clear boundaries, and focused on the essential tasks. Slowly, things started to improve. If you can’t quickly adapt to a new role, both you and your colleagues will feel exhausted.</p>
+<p>What does it mean to be an employee? What does it mean to be a manager?</p>
+<p>A true manager is someone who is willing to think proactively, take responsibility, guide others, and take action, rather than just giving orders. How many of your skills as a manager could actually surpass those of the specialists on the front line?</p>
+<p>In life, what does it mean to be a child or a parent? A student or a teacher? A friend or a lover? Where are the boundaries of these roles, and what do we expect from the other person in each relationship?</p>
+<p>Too often, we confuse our roles or lack clarity in them, or we passively fall into a role without taking it on actively.</p>
+<p>Recently, there was a viral short video about a war game played abroad. The red and blue teams were battling for territory, and one side was retreating steadily. In the end, their commander logged off and fled. At that moment, a Chinese player stepped up and took over the command, leading the team to victory with bilingual English-Chinese instructions.</p>
+<p>This Chinese player may have started the game simply wanting to play as a soldier, but when the moment came, they took on the role of commander and performed it perfectly.</p>
+<p>The key here is “attentiveness” in daily life—paying attention, thinking carefully, daring to try and take responsibility. Only then can you rise to the occasion when it counts.</p>
+<p>Many roles in life are assigned to us. If that’s the case, then let’s play those roles well. If one day the director gives you a 10-second role, will you seize it?</p>
+<p>Wong Jing once remarked that Stephen Chow showed seven different expressions in a 10-second scene in <em>A Chinese Odyssey</em>. How much effort do you think went into perfecting those seven expressions?</p>
+]]></content>
+      <categories>
+        <category>Times</category>
+      </categories>
+      <tags>
+        <tag>Roles</tag>
       </tags>
   </entry>
   <entry>
@@ -325,6 +356,34 @@
       </tags>
   </entry>
   <entry>
+    <title>Habit is a Behavior, and Behavior is Easier to Change</title>
+    <url>/en/20220429/</url>
+    <content><![CDATA[<p>A few days ago, I came across a short psychology video on Douyin from “This Thought Official” titled “What Should You Never Say to Your Child?” It was quite insightful.</p>
+<p>Guest Huang Shiming answered: Negative language at the identity level should not be used.</p>
+<p>For example, if a client says to me, “Hey, teacher, I’m an alcoholic,” and seeks psychological counseling.</p>
+<p>I won’t agree with that. I would say, “Hey, are you saying that you have a habit of drinking?”</p>
+<p><strong>Habit is a behavior, and behavior is easier to change.</strong></p>
+<p>If someone says, “I’m a depressed person.”</p>
+<p>I would respond, “Are you saying you smile a little less than others?”</p>
+<p>If my child says, “Dad, I’m sure I’ll fail. I identify as someone who can’t succeed.”</p>
+<p>I would say, “Oh, are you saying that this time, you might fail?”</p>
+<p>This relaxes the tension (deep breath) and <strong>opens up a space for relaxation, where new things can come in.</strong></p>
+<p>Of course, they might still fail the exam tomorrow, but now we share an alliance, a common intention, to see how things can get a little better than they are now. I become that ally in my child’s eyes, the person they believe in.</p>
+<p>———</p>
+<p>Many times, whether labeling ourselves or others, it’s easy to apply definitive labels, such as “I’m a loser,” or “He’s a bad person.”</p>
+<p>Carrying such a definitive label can be an invisible burden for years, sometimes suffocating. If you’re lucky, you might overcome it, but if not, it can become a vicious cycle.</p>
+<p>Life has no boundaries, there aren’t as many labels as we think, and things shouldn’t be so easily defined. The world isn’t just black and white, good or bad. Often, time is the best companion, and a positive mindset can change a lot.</p>
+<p><a href="https://v.douyin.com/FYG7QEB">Video Source</a></p>
+]]></content>
+      <categories>
+        <category>Times</category>
+      </categories>
+      <tags>
+        <tag>Labeling</tag>
+        <tag>Definition</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>The Process of Thinking Involves the Use of Concepts, Judgments, and Reasoning</title>
     <url>/en/20220430/</url>
     <content><![CDATA[<p>We often talk about logic, but what exactly is logic?</p>
@@ -353,36 +412,6 @@
       <tags>
         <tag>Logic</tag>
         <tag>Formal Logic</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>I Am What I Am, a Firework of a Different Color</title>
-    <url>/en/20220416/</url>
-    <content><![CDATA[<p><strong>Formal Logic</strong> states that a <strong>concept</strong> is a form of thought that reflects the “unique” attributes (inherent or essential properties) of an object.</p>
-<p>Recently, I’ve been exploring a question: Is there a way for personal breakthrough?</p>
-<p>Continuous learning, organizing notes, building knowledge systems, cognitive awakening, and so on. Yet, I still feel unsettled, as if daily problems remain unsolved, always in doubt, always exploring.</p>
-<p>In work communication between superiors and subordinates, it often seems like you’ve explained something clearly, but the final result differs significantly. When we reflect on it, we often find that there were discrepancies in how we understood certain concepts or things.</p>
-<p>One day, while reading, I came across Einstein’s statement: “The most incomprehensible thing about the world is that it is comprehensible.” Having been puzzled by some issues for a long time, I was deeply moved by the word “comprehensible.”</p>
-<p>Later, I realized that one way to understand the world is through “logic,” through induction and deduction, and the foundation of logic is “concepts.”</p>
-<p>Thus, the paradigm for understanding the world, in my view, becomes quite simple: Have you truly understood a “concept”?</p>
-<p>The most crucial aspect of a concept is its “characteristic,” the key factor that distinguishes it from other things. This understanding makes many problems much clearer.</p>
-<p>The internet often mentions that if you can’t explain your product in one sentence, it’s not a qualified product. In business, this is about “positioning,” while in logic, it’s about “concept” description, a process of “definition.”</p>
-<p>Many people say they can’t express themselves well. The reason for this is often that they haven’t thought things through; it’s a mess. The reason for this mess is unclear logic, and unclear logic is likely due to unclear “concepts.”</p>
-<p>I now enjoy a new way of note-taking with Flomo: just recording “keywords.” This method is quick and efficient. On one hand, it provides a clue and facilitates indexing; on the other hand, it helps practice two logical abilities: “deduction” and “abstraction.” Later, when I have time, I can elaborate on these concepts, possibly leading to a small blog post.</p>
-<p>Deduction involves expanding on a concept, making it more understandable, defining it, or providing examples. Abstraction involves simplifying complex matters, extracting commonalities, and being as concise as possible, which is the foundation of structured expression.</p>
-<p>At last year’s NoteMan Annual Conference, Teacher Ke Zhou specifically mentioned “conceptual thinking,” a way of thinking. I looked it up and found that Huawei’s Teacher Su Guanzhe also frequently discusses it.</p>
-<p><strong>Conceptual Thinking</strong> is the ability to identify the essential characteristics of seemingly unrelated things.</p>
-<p>In this sense, my understanding is that it is a thinking ability that sees the essence through phenomena. But it seems I haven’t explained it very clearly because there are many ways to see the essence through phenomena. This isn’t the unique trait of “conceptual thinking.” I’ve asked Teacher Ke Zhou some questions about this, and I’ll update when I receive new answers.</p>
-<p>Personally, I believe that trying to understand the world is about understanding the concepts of all things. Understanding concepts is understanding the world.</p>
-<p>Leslie Cheung sings, “I am what I am, a firework of a different color.”</p>
-<p>If “I” want to live a brilliant and independent life, I need to have my own characteristics, whether it’s individuality or value output. Having that unique aspect helps you understand “self.”</p>
-]]></content>
-      <categories>
-        <category>Times</category>
-      </categories>
-      <tags>
-        <tag>Logic</tag>
-        <tag>Concepts</tag>
       </tags>
   </entry>
   <entry>
@@ -464,6 +493,20 @@
       </tags>
   </entry>
   <entry>
+    <title>世界是可以理解的吗</title>
+    <url>/zh-CN/2022030603/</url>
+    <content><![CDATA[<p>「理解」</p>
+<p>「The most incomprehensible thing about the world is that it is comprehensible.」</p>
+<p>这个世界的最不可理解之处就这于它是可以理解的。</p>
+<p>— Albert Einstein</p>
+<p>有时感觉好幸运，幸运的是这个世界是可描述的、可理解的、可探索的，是有解的。</p>
+<p>世界应该是有固有原理的，而人类在理解世界过程中，大部分时间都是从低维度看待世界的，在摸爬滚打的过程中探索着背后的真理。这过程中有一部分人发现真理了、认知突破了、觉醒升维了，在处理特定问题时候就会得心应手。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Simple</title>
     <url>/en/simple/</url>
     <content><![CDATA[<p>Many years ago, I might have been someone who delved into various fields of knowledge, and perhaps I still am to this day, but now I’m captivated by a very simple principle: “Keep it simple.”</p>
@@ -483,59 +526,6 @@
 <p>The world originally might have consisted of individual entities composed of these elements, and then due to various connections, the world gained its rich diversity, forming its shape.</p>
 <p>More than 90% of things in this world can be broken down to a simple level of comprehension. If they cannot, it only suggests that we are still unable to understand, unable to delve into the truth and essence, requiring continual exploration.</p>
 <p>The world of computers has only 0 and 1. Is it possible that our world is the same?</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Supporting Role or Leading Role?</title>
-    <url>/en/20220420/</url>
-    <content><![CDATA[<p>Life is essentially a journey of playing different roles.</p>
-<p>Many people’s first experience of transformation is the sudden realization that, though they thought they were the main character in their story, they were actually just a supporting role, or even merely a passerby.</p>
-<p>As a child, I used to enjoy watching the main characters in movies. But as I grew older, I found myself more interested in the supporting roles, learning about the growth experiences of the smaller characters.</p>
-<p>If life were a play, and the director only gave you 10 seconds, how would you seize that moment?</p>
-<p>We play many roles throughout our lives, but often, we don’t fully understand these roles. Some roles seem to be handed to us unexpectedly.</p>
-<p>We are born as sons or daughters, we go to school and become students, then we work and become employees, eventually rising to executive roles. We fall in love, get married, and become lovers, then eventually grandparents or take on many other roles.</p>
-<p>But do we truly understand the meaning and responsibility behind each role?</p>
-<p>One of my deepest reflections on roles came when I was first promoted to director. I was excited about the promotion and the raise, but when I started working in that role, managing both up and down the chain was incredibly challenging. For the first few months, I struggled, trying to handle everything personally, unable to prioritize effectively. My boss criticized me, my subordinates pushed back, and my team was in disarray.</p>
-<p>Then one day, I suddenly understood what being a “director” really meant. I grasped the nature of the role, set clear boundaries, and focused on the essential tasks. Slowly, things started to improve. If you can’t quickly adapt to a new role, both you and your colleagues will feel exhausted.</p>
-<p>What does it mean to be an employee? What does it mean to be a manager?</p>
-<p>A true manager is someone who is willing to think proactively, take responsibility, guide others, and take action, rather than just giving orders. How many of your skills as a manager could actually surpass those of the specialists on the front line?</p>
-<p>In life, what does it mean to be a child or a parent? A student or a teacher? A friend or a lover? Where are the boundaries of these roles, and what do we expect from the other person in each relationship?</p>
-<p>Too often, we confuse our roles or lack clarity in them, or we passively fall into a role without taking it on actively.</p>
-<p>Recently, there was a viral short video about a war game played abroad. The red and blue teams were battling for territory, and one side was retreating steadily. In the end, their commander logged off and fled. At that moment, a Chinese player stepped up and took over the command, leading the team to victory with bilingual English-Chinese instructions.</p>
-<p>This Chinese player may have started the game simply wanting to play as a soldier, but when the moment came, they took on the role of commander and performed it perfectly.</p>
-<p>The key here is “attentiveness” in daily life—paying attention, thinking carefully, daring to try and take responsibility. Only then can you rise to the occasion when it counts.</p>
-<p>Many roles in life are assigned to us. If that’s the case, then let’s play those roles well. If one day the director gives you a 10-second role, will you seize it?</p>
-<p>Wong Jing once remarked that Stephen Chow showed seven different expressions in a 10-second scene in <em>A Chinese Odyssey</em>. How much effort do you think went into perfecting those seven expressions?</p>
-]]></content>
-      <categories>
-        <category>Times</category>
-      </categories>
-      <tags>
-        <tag>Roles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Pure</title>
-    <url>/en/pure/</url>
-    <content><![CDATA[<p>Lately, intermittently, I’ve come across a classic interview by Wang Lifen about Jet Li. When I watched the complete video again, I found myself reflecting on a multitude of topics—thinking, the One Foundation, the Internet, humanity, faith, and so much more. This led to a new understanding and sentiment.</p>
-<p>Jet Li understood the concept of <strong>Yin and Yang</strong> when he was only 11 years old, grasping the essence of Tai Chi. It wasn’t until he was around 30 that he began to glimpse the truth: the world isn’t just black and white.</p>
-<p>Speaking of science, Jet Li shared:</p>
-<blockquote>
-"The mysteries of the universe that humanity has mastered over five thousand years are truly limited. The scientific knowledge we possess is quite confined; <b>it's called science precisely because it isn't scientific.</b>"
-</blockquote>
-
-<br/>
-I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable that someone who didn't graduate from elementary school, who has remained humble about his lack of education, could arrive at such a profound realization.
-
-<p>Regarding science, many people nowadays lack an understanding, thinking that science equates to truth. In fact, it’s not. The correctness of science is temporary, and it’s through constant negation and revision that we arrive at truth. There might not even be any absolute truth in this world. The only truth might be the continuous process of seeking the truth.</p>
-<p>Due to martial arts and the film “Shaolin Temple,” Jet Li gained insight into the world, comprehending movies and the universe. As a teenager, he developed an entirely new perception of the world, which he continually pondered. He questioned why people always said, “Martial artists are simple-minded with well-developed limbs.” He spent half his life seeking evidence and disproving this notion, dedicating himself to learning to cultivate as much wisdom as possible, which he indeed achieved.</p>
-<p>This realization motivated Jet Li to leave the system, even if it meant breaking his leg. His determination led to a serendipitous leg injury, and he found himself ecstatic about it, sensing that fate was on his side. Perhaps it was youthful ignorance or youthful aspiration that led him to such an outlook. He ventured out, giving birth to numerous exceptional films, but films were merely a fraction of his excellence.</p>
-<p>He is someone who contemplates deeply: he reflects on whether something is problematic when everyone does it. He ponders how to be more efficient. These two ways of thinking became deeply ingrained in him at a young age, perhaps influenced by his early encounter with the concept of yin and yang. It’s remarkable; although exposed to this concept early, not everyone can grasp its essence.</p>
-<p>Fortunately, after his introduction to Zen Buddhism, the constant yearning led him to the edge of <strong>「Dao」</strong>, a stroke of immense luck.</p>
-<p>He continuously reads books, biographies of famous people, the life stories of Marie Curie, Stalin, Hitler, Edison, and selections from Deng Xiaoping, among others. He reads classics, including the Bible and the Quran.</p>
-<p>When he was young, Jet Li had a dream—to water flowers. However, when he shared this dream with those around him, they labeled him as lacking ambition, direction, and courage, accusing him of being a coward who didn’t aspire for greatness.</p>
-<p>The Little Prince once had such a pure dream, unable to comprehend why so many people were so complicated, so impure.</p>
-<p>And now, what I’m tirelessly pursuing is nothing more than a pure dream, akin to watering flowers—perhaps one or several dreams.</p>
 ]]></content>
   </entry>
   <entry>
@@ -597,20 +587,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
-    <title>世界是可以理解的吗</title>
-    <url>/zh-CN/2022030603/</url>
-    <content><![CDATA[<p>「理解」</p>
-<p>「The most incomprehensible thing about the world is that it is comprehensible.」</p>
-<p>这个世界的最不可理解之处就这于它是可以理解的。</p>
-<p>— Albert Einstein</p>
-<p>有时感觉好幸运，幸运的是这个世界是可描述的、可理解的、可探索的，是有解的。</p>
-<p>世界应该是有固有原理的，而人类在理解世界过程中，大部分时间都是从低维度看待世界的，在摸爬滚打的过程中探索着背后的真理。这过程中有一部分人发现真理了、认知突破了、觉醒升维了，在处理特定问题时候就会得心应手。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
     <title>线索</title>
     <url>/zh-CN/2022030604/</url>
     <content><![CDATA[<p>「线索」</p>
@@ -620,6 +596,32 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
 <p>当你预想自己是「活在未来」，有一个终极谜底在等待你揭开的时候，或许你会对这个世界充满了好奇和热情。</p>
 <p>生命放在整个历史长河里面，本是千丝万缕的联系构建的，确定论也好，概率论也好，关键是不断的朝着你心中的那个终极谜底，抽丝剥茧，不断地探索。</p>
 <p>[视频链接] : <a href="https://v.qq.com/x/cover/mzc002009opyj1s/q3312wjy741.html">https://v.qq.com/x/cover/mzc002009opyj1s/q3312wjy741.html</a></p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>隐性假设·暗物质</title>
+    <url>/zh-CN/2022031301/</url>
+    <content><![CDATA[<p>「隐性假设·暗物质」</p>
+<p>有一阵子看逻辑学后对「隐性假设」很感兴趣，后来想想就是「现象」和「本质」的关联关系，那如何透过现象看到本质，是否一定能看到本质？</p>
+<p>我们先说「隐性假设」，很多时候我们在表达的时候附带了太多的隐性假设，这种隐性假设可能来源于个人的知识积累，认知层次，甚至于某一个环境。</p>
+<p>日常生活中所说的「常识」、「文化」其实都是一种很容易被忽略的隐性假设合集。</p>
+<p>举个例子：</p>
+<p>我从小到大吃的豆腐脑都是甜的，后来在北方读大学，有一天吃早餐的时候，发现有豆腐脑，于是就点了一碗，等上来的时候就傻眼了，竟然是咸的还带卤带香菜。</p>
+<p>在北方，豆腐脑就是咸的，而我的常识里面，一直认为豆腐脑是甜的，等上来要吃的时候，就蒙了。</p>
+<p>当然，现在很多地方服务员会问你，咸的还是甜的，或者我自己主动说要甜的。</p>
+<p>这其实就是常识或者文化的一个差异导致的。</p>
+<p>这些隐性假设很不容易显现出来，导致我们在表达沟通、推断做决策的时候出现偏差。</p>
+<p>我们又如何能把一件事表达或者理解的全面、准确、透彻、可靠呢？</p>
+<p>其实「理解」更重要，因为很多事只有你理解了才能继续沟通，很多时候别人没有义务把事情说得那么透彻明白，甚至是有意刻意的隐藏关键信息。</p>
+<p>这里面其实常用的方式是「批判性思维」，或者简单的一点是「追问」，把自己的疑惑表达出来，直到清晰，甚至再用自己的话术表达一遍，才可能真正的理解了。</p>
+<p>比如，我们在做产品的时候，会特别注重名词概念的解释，要保证大家的理解是一致的；或者在沟通的时候，别人给你抛出一个概念或问题的时候，不清晰的问题需要确认一下，甚至复述一下问对方是不是这样的意思，等等。</p>
+<p>那为什么我要把「隐性假设」和「暗物质」一起呢，主要是拿来做一个比喻。</p>
+<p>暗物质是理论上提出的可能存在于宇宙中的一种不可见的物质，它可能是宇宙物质的主要组成部分，但又不属于构成可见天体的任何一种已知的物质。</p>
+<p>据说，这个世界暗物质占比80%以上，其实生活中很多事背后的推动有可能是那些暗物质决定的，只是你不知道而已。</p>
+<p>很多时候，我们应该尽可能的去挖掘、批判、分析、理解那些事情背后的隐性假设，而这些隐性假设才可能是真正的本质，那些显性的只是表象。</p>
 ]]></content>
       <categories>
         <category>时光集</category>
@@ -655,32 +657,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
         <tag>观点</tag>
         <tag>情绪</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>隐性假设·暗物质</title>
-    <url>/zh-CN/2022031301/</url>
-    <content><![CDATA[<p>「隐性假设·暗物质」</p>
-<p>有一阵子看逻辑学后对「隐性假设」很感兴趣，后来想想就是「现象」和「本质」的关联关系，那如何透过现象看到本质，是否一定能看到本质？</p>
-<p>我们先说「隐性假设」，很多时候我们在表达的时候附带了太多的隐性假设，这种隐性假设可能来源于个人的知识积累，认知层次，甚至于某一个环境。</p>
-<p>日常生活中所说的「常识」、「文化」其实都是一种很容易被忽略的隐性假设合集。</p>
-<p>举个例子：</p>
-<p>我从小到大吃的豆腐脑都是甜的，后来在北方读大学，有一天吃早餐的时候，发现有豆腐脑，于是就点了一碗，等上来的时候就傻眼了，竟然是咸的还带卤带香菜。</p>
-<p>在北方，豆腐脑就是咸的，而我的常识里面，一直认为豆腐脑是甜的，等上来要吃的时候，就蒙了。</p>
-<p>当然，现在很多地方服务员会问你，咸的还是甜的，或者我自己主动说要甜的。</p>
-<p>这其实就是常识或者文化的一个差异导致的。</p>
-<p>这些隐性假设很不容易显现出来，导致我们在表达沟通、推断做决策的时候出现偏差。</p>
-<p>我们又如何能把一件事表达或者理解的全面、准确、透彻、可靠呢？</p>
-<p>其实「理解」更重要，因为很多事只有你理解了才能继续沟通，很多时候别人没有义务把事情说得那么透彻明白，甚至是有意刻意的隐藏关键信息。</p>
-<p>这里面其实常用的方式是「批判性思维」，或者简单的一点是「追问」，把自己的疑惑表达出来，直到清晰，甚至再用自己的话术表达一遍，才可能真正的理解了。</p>
-<p>比如，我们在做产品的时候，会特别注重名词概念的解释，要保证大家的理解是一致的；或者在沟通的时候，别人给你抛出一个概念或问题的时候，不清晰的问题需要确认一下，甚至复述一下问对方是不是这样的意思，等等。</p>
-<p>那为什么我要把「隐性假设」和「暗物质」一起呢，主要是拿来做一个比喻。</p>
-<p>暗物质是理论上提出的可能存在于宇宙中的一种不可见的物质，它可能是宇宙物质的主要组成部分，但又不属于构成可见天体的任何一种已知的物质。</p>
-<p>据说，这个世界暗物质占比80%以上，其实生活中很多事背后的推动有可能是那些暗物质决定的，只是你不知道而已。</p>
-<p>很多时候，我们应该尽可能的去挖掘、批判、分析、理解那些事情背后的隐性假设，而这些隐性假设才可能是真正的本质，那些显性的只是表象。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
   </entry>
   <entry>
     <title>共生</title>
@@ -812,22 +788,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </tags>
   </entry>
   <entry>
-    <title>生命以负熵为生，保持痛感</title>
-    <url>/zh-CN/20220415/</url>
-    <content><![CDATA[<p>「痛感」</p>
-<p>痛感指痛苦的感觉或深切地感动。</p>
-<p>成长是一个不断走出舒适区的过程，长久地待在舒适区，会让人失去思考的习惯，会让人逃避现实，是一种缺少危机意识的行为。</p>
-<p>薛定谔说过：“人活着就是在对抗熵增定律，生命以负熵为生”。</p>
-<p>这是我最喜欢的一句话，悲观而浪漫。</p>
-<p>保持痛感是对生命生活的一种敬畏，生命本身就是「向死而生」，生活本就是「无常」，只有真正明白了这些才会从内心迸发出一种向生的力量感。</p>
-<p>看电影、听音乐、阅读、锻炼等等很多种方式，让内心和身体都可以处在一个「心跳」的状态。</p>
-<p>保持痛感，保持感悟，向阳而生，未来才会越来越精彩。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
     <title>教育的本质</title>
     <url>/zh-CN/20220401/</url>
     <content><![CDATA[<p>「教育」</p>
@@ -851,6 +811,46 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
 <p>二是自己和环境给予的心理正向反馈，比如赞美、鼓励。</p>
 <p>很多时候事情并不是百分百能成功，只是可能会成功，但积极心理学的潜意识某种程度是可以让自己坚持下来的，坚持坚持就成功了。不过有时候也要考虑「沉没成本」，就是如果事情付出太久太多仍然没有成功，是不是考虑要再过多的去投入了，创业时很容易犯这种错。</p>
 <p>教者也好、学者也好，首先应该对自我的认知越来越清晰，其次对他人、对组织的认知也越来越清晰，要发现那个真正的自我，也要学会挖掘他人的「真我」，才可以让人类的文明得以传承下去。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>上海疫情封闭的这些天</title>
+    <url>/zh-CN/20220408/</url>
+    <content><![CDATA[<p>「无常」</p>
+<p>世人都在求安定，无奈世事总是无常。</p>
+<p>上海疫情看似来得很突然，连封城好像都猝不及防，每天都有新增感染者，原定5号解封的，今天8号还在待定，很多人囤粮都没了，甚至压根儿就没囤，社会的快递外卖等派送力又不够，小区居委会的组织管理一下又没跟上来，若大的上海好像乱糟糟的。</p>
+<p>不确定的大环境之下，其实最重要的是抗风险能力，反脆弱的能力。</p>
+<p>「每一个事物都会从波动中得到利益或蒙受损失，脆弱性是指因为波动和不确定而承受损失，反脆弱性则是指让自己避免这些损失，甚至从混乱中不确定中获利。」</p>
+<p>首先，我觉得反脆弱的能力重要的一项是「心态」，积极乐观的心态是非常重要的，就像《反脆弱》书中也提到尼采的那句话：“杀不死我的，只会让我更强大。”</p>
+<p>这场抗疫中，有不少人在抱怨在吐槽，说这也不行那也乱，而有担当的人早已置身一线分析问题解决问题。</p>
+<p>大多困难面前失败的根本原因是自己的意志消沉和心态的崩塌。</p>
+<p>其次，我觉得要有「危机意识」。</p>
+<p>比如囤粮，有的家庭就会囤不少，这个囤不是疯狂抢购，是有节制的囤。如果5号说解封，如果不解封，你会怎么做，我至少多囤点，以防万一。囤一些必要持久的，如米油盐蛋等。</p>
+<p>我一直相信一个原则，任何事情要做最坏的打算。</p>
+<p>工作中，你的团队告诉你项目进展10号能完成，你自己心理要有预期，如果10号完不成怎么办，你是否要预留时间，或者提前赶进度。</p>
+<p>新冠疫情的这几年，多少行业公司都无法坚持下来直至倒闭关门，而新东方却反而能活下来，俞敏洪从第一天开始就做好了这个准备。</p>
+<p>德州扑克其实很锻炼这个，都是概率，偶尔赌一赌可以，但如果总是入池，或者动辄All in，结果只有输。</p>
+<p>无常其实是常态，影响事情的发展因素是多维的，是概率的，百分百太难了，要学会的是在无常和不确定性下很好的生存发展，这是一项基本能力。</p>
+<p>可以读读《反脆弱》，也深入了解一下这项能力。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>生命以负熵为生，保持痛感</title>
+    <url>/zh-CN/20220415/</url>
+    <content><![CDATA[<p>「痛感」</p>
+<p>痛感指痛苦的感觉或深切地感动。</p>
+<p>成长是一个不断走出舒适区的过程，长久地待在舒适区，会让人失去思考的习惯，会让人逃避现实，是一种缺少危机意识的行为。</p>
+<p>薛定谔说过：“人活着就是在对抗熵增定律，生命以负熵为生”。</p>
+<p>这是我最喜欢的一句话，悲观而浪漫。</p>
+<p>保持痛感是对生命生活的一种敬畏，生命本身就是「向死而生」，生活本就是「无常」，只有真正明白了这些才会从内心迸发出一种向生的力量感。</p>
+<p>看电影、听音乐、阅读、锻炼等等很多种方式，让内心和身体都可以处在一个「心跳」的状态。</p>
+<p>保持痛感，保持感悟，向阳而生，未来才会越来越精彩。</p>
 ]]></content>
       <categories>
         <category>时光集</category>
@@ -939,30 +939,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       <tags>
         <tag>思考</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>上海疫情封闭的这些天</title>
-    <url>/zh-CN/20220408/</url>
-    <content><![CDATA[<p>「无常」</p>
-<p>世人都在求安定，无奈世事总是无常。</p>
-<p>上海疫情看似来得很突然，连封城好像都猝不及防，每天都有新增感染者，原定5号解封的，今天8号还在待定，很多人囤粮都没了，甚至压根儿就没囤，社会的快递外卖等派送力又不够，小区居委会的组织管理一下又没跟上来，若大的上海好像乱糟糟的。</p>
-<p>不确定的大环境之下，其实最重要的是抗风险能力，反脆弱的能力。</p>
-<p>「每一个事物都会从波动中得到利益或蒙受损失，脆弱性是指因为波动和不确定而承受损失，反脆弱性则是指让自己避免这些损失，甚至从混乱中不确定中获利。」</p>
-<p>首先，我觉得反脆弱的能力重要的一项是「心态」，积极乐观的心态是非常重要的，就像《反脆弱》书中也提到尼采的那句话：“杀不死我的，只会让我更强大。”</p>
-<p>这场抗疫中，有不少人在抱怨在吐槽，说这也不行那也乱，而有担当的人早已置身一线分析问题解决问题。</p>
-<p>大多困难面前失败的根本原因是自己的意志消沉和心态的崩塌。</p>
-<p>其次，我觉得要有「危机意识」。</p>
-<p>比如囤粮，有的家庭就会囤不少，这个囤不是疯狂抢购，是有节制的囤。如果5号说解封，如果不解封，你会怎么做，我至少多囤点，以防万一。囤一些必要持久的，如米油盐蛋等。</p>
-<p>我一直相信一个原则，任何事情要做最坏的打算。</p>
-<p>工作中，你的团队告诉你项目进展10号能完成，你自己心理要有预期，如果10号完不成怎么办，你是否要预留时间，或者提前赶进度。</p>
-<p>新冠疫情的这几年，多少行业公司都无法坚持下来直至倒闭关门，而新东方却反而能活下来，俞敏洪从第一天开始就做好了这个准备。</p>
-<p>德州扑克其实很锻炼这个，都是概率，偶尔赌一赌可以，但如果总是入池，或者动辄All in，结果只有输。</p>
-<p>无常其实是常态，影响事情的发展因素是多维的，是概率的，百分百太难了，要学会的是在无常和不确定性下很好的生存发展，这是一项基本能力。</p>
-<p>可以读读《反脆弱》，也深入了解一下这项能力。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
   </entry>
   <entry>
     <title>习惯是个行为，行为更容易改变</title>
@@ -1096,35 +1072,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
-    <title>夫知者不言，言者不知</title>
-    <url>/zh-CN/20220520/</url>
-    <content><![CDATA[<p>「天道·知道」</p>
-<p>看完《天道》后，竟然无意中看到一段解读《庄子·知北游》，寓言故事大致如下：</p>
-<p>一个叫「知」的问「无为谓」，怎么才算<strong>「知道」、「安道」、「得道」</strong>，无为谓不知道怎么答，然后知又去问「狂屈」，狂屈说知道，可到嘴边又没说；然后知去问「黄帝」，黄帝于是告诉知：无为谓是真知道，狂屈是接近了，而我和你终不得道。</p>
-<p>天道的那句，“你知道你，所以你不是你”，应该是源自这里面的一句话：“<strong>夫知者不言，言者不知。</strong>”同样丁说芮的境地比他高，跟这则寓言的故事一样。</p>
-<p>有意思的是，我读《知北游》的时候，对「知道」这个概念愣了一下，查了下百科竟然有5种意思：</p>
-<ol>
-<li><p>谓通晓天地知道，神明人世之理。</p>
-</li>
-<li><p>认识道路。</p>
-</li>
-<li><p>晓得，谓对事物有所了解、认识。</p>
-</li>
-<li><p>公文用语。犹知悉，多见于诏令。</p>
-</li>
-<li><p>犹厉害。</p>
-</li>
-</ol>
-<p>想到日常我们用「知道」，是真的知道了吗？还只是一句口头禅，还只是「收到」、「听到」、「看到」等，真正有没有「知」，有没有理解其中的「道」？</p>
-<p>至于「安道」，还是「得道」，都不重要了，像我这种人开了这扇门，一旦开始思考了、追寻了这个「道」，用庄子说的，终不得吧。</p>
-<p>若干年前，读禅宗山水的三种境地，想始终无法明白第三种境地，更无从进入第三境地，想来，最高的境界还是：看山是山、看水是水。</p>
-<p>自然至极，毫无雕琢，不可得。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
     <title>无所用，无所不用</title>
     <url>/zh-CN/20220515/</url>
     <content><![CDATA[<p>「天道」</p>
@@ -1203,6 +1150,57 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
+    <title>夫知者不言，言者不知</title>
+    <url>/zh-CN/20220520/</url>
+    <content><![CDATA[<p>「天道·知道」</p>
+<p>看完《天道》后，竟然无意中看到一段解读《庄子·知北游》，寓言故事大致如下：</p>
+<p>一个叫「知」的问「无为谓」，怎么才算<strong>「知道」、「安道」、「得道」</strong>，无为谓不知道怎么答，然后知又去问「狂屈」，狂屈说知道，可到嘴边又没说；然后知去问「黄帝」，黄帝于是告诉知：无为谓是真知道，狂屈是接近了，而我和你终不得道。</p>
+<p>天道的那句，“你知道你，所以你不是你”，应该是源自这里面的一句话：“<strong>夫知者不言，言者不知。</strong>”同样丁说芮的境地比他高，跟这则寓言的故事一样。</p>
+<p>有意思的是，我读《知北游》的时候，对「知道」这个概念愣了一下，查了下百科竟然有5种意思：</p>
+<ol>
+<li><p>谓通晓天地知道，神明人世之理。</p>
+</li>
+<li><p>认识道路。</p>
+</li>
+<li><p>晓得，谓对事物有所了解、认识。</p>
+</li>
+<li><p>公文用语。犹知悉，多见于诏令。</p>
+</li>
+<li><p>犹厉害。</p>
+</li>
+</ol>
+<p>想到日常我们用「知道」，是真的知道了吗？还只是一句口头禅，还只是「收到」、「听到」、「看到」等，真正有没有「知」，有没有理解其中的「道」？</p>
+<p>至于「安道」，还是「得道」，都不重要了，像我这种人开了这扇门，一旦开始思考了、追寻了这个「道」，用庄子说的，终不得吧。</p>
+<p>若干年前，读禅宗山水的三种境地，想始终无法明白第三种境地，更无从进入第三境地，想来，最高的境界还是：看山是山、看水是水。</p>
+<p>自然至极，毫无雕琢，不可得。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>本质是必然的，现象是偶然的</title>
+    <url>/zh-CN/20220604/</url>
+    <content><![CDATA[<p>「必然·偶然」</p>
+<p>很多人说上海终于解封了，这个「终于」透露着无限的期盼和无奈，最终有了结果。</p>
+<p>可事实不过是，上海解封了，这是必然的，6月1号不过是个时间问题，这两个月不过是一个过程。</p>
+<p>好比，宇宙始终会朝着无序发展，这是必然的。</p>
+<p>对于大部分人来说，会经历出生、学生、成人、结婚、生子、死亡等等一些过程，这是必然的，偶尔有些人是非必然的，无法出生，无法读书、无法结婚生子等等。</p>
+<p>这对大众是偶然，对个例才是必然。</p>
+<p>我有一个很基础的观点，这个事儿只要你用心去做了，基本都会有结果，无论结果是好是坏，不过是达到多少预期。</p>
+<p>过程是单向运动不可逆的，运动是有起点和终点的，这是必然的，只不过什么时候是起点，什么时候是终点，这是非必然的。</p>
+<p>现象是偶然的，本质才是必然的。</p>
+<p>大部分人都热衷沉浸于现象当中，甚至沉溺于某一次的成功与失败。</p>
+<p>其实，过去是必然的，未来才是偶然的。</p>
+<p>又好比，大部分人一定是会有朋友的，但朋友是不是你，这个是偶然的。友情也好、爱情也好，都难能可贵，是因为茫茫人海中，得一知己或者相遇相知相爱都是偶然的，是概率的，是值得庆幸的。</p>
+<p>理性是必然的，感性才是偶然的。</p>
+<p>偶然是文艺浪漫的，必然是无趣无味的。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
     <title>目标固然重要，实现目标的人才是关键</title>
     <url>/zh-CN/20220529/</url>
     <content><![CDATA[<p>「目标」</p>
@@ -1260,28 +1258,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
-    <title>本质是必然的，现象是偶然的</title>
-    <url>/zh-CN/20220604/</url>
-    <content><![CDATA[<p>「必然·偶然」</p>
-<p>很多人说上海终于解封了，这个「终于」透露着无限的期盼和无奈，最终有了结果。</p>
-<p>可事实不过是，上海解封了，这是必然的，6月1号不过是个时间问题，这两个月不过是一个过程。</p>
-<p>好比，宇宙始终会朝着无序发展，这是必然的。</p>
-<p>对于大部分人来说，会经历出生、学生、成人、结婚、生子、死亡等等一些过程，这是必然的，偶尔有些人是非必然的，无法出生，无法读书、无法结婚生子等等。</p>
-<p>这对大众是偶然，对个例才是必然。</p>
-<p>我有一个很基础的观点，这个事儿只要你用心去做了，基本都会有结果，无论结果是好是坏，不过是达到多少预期。</p>
-<p>过程是单向运动不可逆的，运动是有起点和终点的，这是必然的，只不过什么时候是起点，什么时候是终点，这是非必然的。</p>
-<p>现象是偶然的，本质才是必然的。</p>
-<p>大部分人都热衷沉浸于现象当中，甚至沉溺于某一次的成功与失败。</p>
-<p>其实，过去是必然的，未来才是偶然的。</p>
-<p>又好比，大部分人一定是会有朋友的，但朋友是不是你，这个是偶然的。友情也好、爱情也好，都难能可贵，是因为茫茫人海中，得一知己或者相遇相知相爱都是偶然的，是概率的，是值得庆幸的。</p>
-<p>理性是必然的，感性才是偶然的。</p>
-<p>偶然是文艺浪漫的，必然是无趣无味的。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
     <title>生而为人，视人为人</title>
     <url>/zh-CN/20220612/</url>
     <content><![CDATA[<p>「视人为人」</p>
@@ -1333,6 +1309,63 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
+    <title>抽象的三个层次</title>
+    <url>/zh-CN/20220630/</url>
+    <content><![CDATA[<p>「抽象」</p>
+<p>最近给新同事培训复盘笔记的时候发现了一个普遍现象：大部分人在记笔记的时候都很容易一堆一堆地输出来，恨不得把听到的内容或者做得事儿挨个字噼里啪啦的全记下来。</p>
+<p>结果就是，很难从笔记中发现重点，更不容易清晰地复述自己的内容。</p>
+<p>这里面主要有个方法可以练习：那就是对自己的输出进行不断的提炼抽象分类。</p>
+<p>刚好这两天也看到《傅佩荣的西方哲学课》讲到了三层抽象：</p>
+<ol>
+<li><p>物理抽象</p>
+</li>
+<li><p>数学抽象</p>
+</li>
+<li><p>形而上抽象</p>
+</li>
+</ol>
+<p>这里面主要有一个我觉得思维比较有意思的地方，其实还是现实到意识，客观到主观的一个反映。</p>
+<p><strong>物理抽象，就是把它的物理特性、个别的东西去掉。</strong></p>
+<p>譬如你现在说：“我看到一辆车”。你看到车，你称它为车，但这辆车跟别的车不一样，因为天下没有两辆一样的车。你说这是车，就代表什么？你把物理特性去掉了。换句话说，物理抽象是人的理性的本能的运作。</p>
+<p>一个小孩子看图片，看到一只狮子的画，在书上看起来跟猫差不多大小，他到动物园一看就知道那是一只狮子。为什么？他有物理抽象能力，他不会说：“这跟我书上看的平面的那个狮子不一样。”你不用担心，人作为人，他的理性就有这样的能力，叫做物理抽象。</p>
+<p><strong>你如果没有物理抽象的能力，你永远只能看个别性、个体性、特殊性，而不能说这是车，因为天下没有所谓的车，每辆车都不一样。</strong></p>
+<p>有时候我们经常说透过现象看本质，就是一种透过个性看共性的一种整体思维、宏观思维、系统思维的能力。</p>
+<p>当我们谈论人类的时候，我们不是在谈论某一个具体的人。</p>
+<p><strong>数学抽象，我觉得可以用另外一个概念来表示，数学建模，</strong>就是对现实世界的一个代数几何的抽象。比如计算机的0&#x2F;1信息表示、山水画简约画等等。</p>
+<p><strong>形而上抽象</strong>，不问这是什么东西，也不问能不能计算，<strong>只问“你存在吗？”</strong> 只要是存在的都是一样的，譬如说有一张桌子存在，还有太阳，还有月亮，还有房屋，它们都是一样的。</p>
+<p>亚里士多德谈到形而上学的时候，他用一句话“把存在之物当作存在之物来看”，而不要看它是不是苹果，是不是圆形的东西，不要看那些，只看它是不是存在。</p>
+<p>每一层抽象都是一个升维的过程，维度越高信息的压缩比其实更大，简练但涵盖的信息却更大，这也就是我们在经常记笔记容易忽略的。</p>
+<p>我们如果更容易提炼抽象，也就更能把握事物的特性要点，进而可以推断普遍性。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>朝闻道，夕死可矣</title>
+    <url>/zh-CN/20220702/</url>
+    <content><![CDATA[<p>「对话」</p>
+<p>最近在读《傅佩荣的西方哲学课》，已经第一遍完成10%了，这速度感觉真的要半年才能学完这课，不过读得确实比较细，收获也蛮多的。</p>
+<p>很早就听过，乔布斯愿意用他一生的科技成就与财富，换取同哲学家苏格拉底共处一个下午。</p>
+<p>起初的理解，苏格拉底很厉害，乔布斯也很厉害，乔布斯能从苏格拉底能获取到他觉得有价值的内容。</p>
+<p>自开始探索认知领域之后，很多断断续续的感悟沉淀，终于在这套体系里面得到安抚，不过自己遇到的种种问题，先哲两千年也遇到过。</p>
+<p>大抵人类的本性都是在试图证明自己的想法是正确的，如果一旦发现有同道中人，不免千杯逢知己，甚少，唏嘘感叹。</p>
+<p>比如，读到苏格拉底之死竟然发现是为了捍卫法律，依然赴死，这简直太震撼了，这个生死已经超然了。</p>
+<p>这也就终于明白乔布斯愿意用一生的财富与他来对话。</p>
+<p>比如，在读到赫拉克拉特的时候，发现他的其中一个观点，他发现这个世界万物背后皆是逻辑。</p>
+<p>这个我刚好是最近悟出的一点门道，感动至极，竟然这些先辈早已指出了方向。</p>
+<p>比如，这些先哲可能逃离不开研究神学，经常也听到哲学背后是神学。</p>
+<p>其实，这个神学，不是我们日常理解的「鬼神」，而在我看来就是「神即道，道法自然」，是这个世界宇宙运行的自然规律。</p>
+<p>比如，关于这个世界的理解，不过最终都回归到人的三观上，所谓认知，不过就是三观的认知。</p>
+<p>这点也是最近终于发现的一个结论，再次感动。</p>
+<p>比如，哲学追求“低调的人生态度”，平安、平静、平衡。</p>
+<p>这个也是我一直以来追求的心境，内心的一个平衡状态，只是迟迟不可得，好在哲学这条路也算给了我一个慰藉吧。</p>
+<p>比如，笛卡尔说，“每一个人一生之中至少要有一次，要去怀疑所有能够被怀疑的东西。”</p>
+<p>这个也是我理解的一种「重生」态度，一种感性到理性，生而为人的一个蜕变的过程。</p>
+<p>孔子说：“朝闻道，夕死可矣。”</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
     <title>你连世界都没有观过，哪来的世界观</title>
     <url>/zh-CN/20220624/</url>
     <content><![CDATA[<p>「三观：世界观·人生观·价值观」</p>
@@ -1346,6 +1379,44 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
 <p>很多时候，世界观才是你人生轨迹的源头，你相信的世界是什么样的，你追求假设的世界是什么样的，你的人生目标，以及价值输入输出就有了定性，路径其实也就在某个范畴边界了。</p>
 <p>但好在世界观是动态的，你的认知是可以无限否定、可以无限升级的。</p>
 <p>唯有不断的拓宽自己的认知边界，也许才可能触及到这个世界本来的真实性吧。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>当人类抬头仰望星空的那一刻, 就注定了我们不凡的命运</title>
+    <url>/zh-CN/20220713/</url>
+    <content><![CDATA[<p>「星空」</p>
+<p>刘慈欣有一篇短篇科幻小说《朝闻道》，里面提到了一个场景，当地球文明向高级文明询问什么时候开始关注到自己的时候，他们是这样回答的：</p>
+<p>“这个原始人仰望星空的时间超过了预警阀值，已对宇宙表现出了充分的好奇，到此为止，已在不同的地点观察到了10例这样的超限事件，符合报警条件。”</p>
+<p>当地球文明很难理解再次询问的时候，他们露出毫无特点的微笑说：“很难理解吗？当生命意识到宇宙奥秘的存在时，距它最终解开这个奥秘只有一步之遥了。”</p>
+<p>我非常喜欢这段对话，其中一个点就在于人类抬头仰望星空的那个意识，那个动作，那个发心，这在我看来比什么都厉害。</p>
+<p>很多年前也有一个关于螺丝钉的故事：</p>
+<p>有一天，一家发电厂发生故障，所有机器停止了运转，几个小时过去了，厂里仍没有人能解决，于是找来了最好的技术专家。</p>
+<p>技术专家来到现场后，检查了一番，最后拧了拧其中一个螺丝，然后机器就都正常了。</p>
+<p>专家最后收取1万美元的费用，并且在账单上清楚的写到，拧螺丝：1美元，知道该拧哪颗螺丝钉：9999美元。</p>
+<p>柏拉图的《理想国》也有一个著名的故事：洞穴隐喻。</p>
+<p>故事大概讲的是一群生活在洞穴的人，其中一个发现了真理，并勇于走出洞穴。但当他再也不愿意过这种黑暗生活，并且想救出他的同伴后，回来告诉他的同伴，那些同伴居然觉得他有问题，最终把他给杀了。</p>
+<p>也许我们大抵看到的不过是这个世界的虚无，至于什么才是真实呢，抑或我们怎么才能证实这个世界的真实或者虚无呢？</p>
+<p>或许这都不重要，重要的是，有无数的人在不断地探索这个世界的真实。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>自觉者无迷</title>
+    <url>/zh-CN/20220716/</url>
+    <content><![CDATA[<p>「自觉」</p>
+<p>自觉，指自己有所认识而主动去做；自己感觉到；自己有所察觉。</p>
+<p>最近对这个概念的感觉很强烈：真正的觉醒一定是来源于自我的发现，自我的察觉，与外人无关，外人顶多不过一个引子。</p>
+<p>哲学里，自觉指的是内在自我发现、外在创新的自我解放意识，是一个反思的过程。</p>
+<p>这期笔记侠训练营有不少同学，虽然已是公司中高层、老板了，但仍然很强的自我意识，无空杯心态，急躁、空想，知行合一的道理好像都懂，但真正离「行」却相差甚远。</p>
+<p>禅宗讲究顿悟，我以为所谓的顿悟，不过是自我觉察的那一瞬间，不过是主观意识超然的那一瞬间。</p>
+<p>至于悟出来的是什么，自我觉察的是什么，自我才是最清楚的，就像很多人其实觉得自己悟道了，但悟的又是什么道呢？</p>
+<p>可能，不过「道不同，继而不相为谋」吧，不过对于每一个人来说。</p>
+<p>无自觉到自觉只是觉醒的第一步，自觉之道是否正确才是第二步。</p>
 ]]></content>
       <categories>
         <category>时光集</category>
@@ -1394,101 +1465,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
-    <title>朝闻道，夕死可矣</title>
-    <url>/zh-CN/20220702/</url>
-    <content><![CDATA[<p>「对话」</p>
-<p>最近在读《傅佩荣的西方哲学课》，已经第一遍完成10%了，这速度感觉真的要半年才能学完这课，不过读得确实比较细，收获也蛮多的。</p>
-<p>很早就听过，乔布斯愿意用他一生的科技成就与财富，换取同哲学家苏格拉底共处一个下午。</p>
-<p>起初的理解，苏格拉底很厉害，乔布斯也很厉害，乔布斯能从苏格拉底能获取到他觉得有价值的内容。</p>
-<p>自开始探索认知领域之后，很多断断续续的感悟沉淀，终于在这套体系里面得到安抚，不过自己遇到的种种问题，先哲两千年也遇到过。</p>
-<p>大抵人类的本性都是在试图证明自己的想法是正确的，如果一旦发现有同道中人，不免千杯逢知己，甚少，唏嘘感叹。</p>
-<p>比如，读到苏格拉底之死竟然发现是为了捍卫法律，依然赴死，这简直太震撼了，这个生死已经超然了。</p>
-<p>这也就终于明白乔布斯愿意用一生的财富与他来对话。</p>
-<p>比如，在读到赫拉克拉特的时候，发现他的其中一个观点，他发现这个世界万物背后皆是逻辑。</p>
-<p>这个我刚好是最近悟出的一点门道，感动至极，竟然这些先辈早已指出了方向。</p>
-<p>比如，这些先哲可能逃离不开研究神学，经常也听到哲学背后是神学。</p>
-<p>其实，这个神学，不是我们日常理解的「鬼神」，而在我看来就是「神即道，道法自然」，是这个世界宇宙运行的自然规律。</p>
-<p>比如，关于这个世界的理解，不过最终都回归到人的三观上，所谓认知，不过就是三观的认知。</p>
-<p>这点也是最近终于发现的一个结论，再次感动。</p>
-<p>比如，哲学追求“低调的人生态度”，平安、平静、平衡。</p>
-<p>这个也是我一直以来追求的心境，内心的一个平衡状态，只是迟迟不可得，好在哲学这条路也算给了我一个慰藉吧。</p>
-<p>比如，笛卡尔说，“每一个人一生之中至少要有一次，要去怀疑所有能够被怀疑的东西。”</p>
-<p>这个也是我理解的一种「重生」态度，一种感性到理性，生而为人的一个蜕变的过程。</p>
-<p>孔子说：“朝闻道，夕死可矣。”</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>抽象的三个层次</title>
-    <url>/zh-CN/20220630/</url>
-    <content><![CDATA[<p>「抽象」</p>
-<p>最近给新同事培训复盘笔记的时候发现了一个普遍现象：大部分人在记笔记的时候都很容易一堆一堆地输出来，恨不得把听到的内容或者做得事儿挨个字噼里啪啦的全记下来。</p>
-<p>结果就是，很难从笔记中发现重点，更不容易清晰地复述自己的内容。</p>
-<p>这里面主要有个方法可以练习：那就是对自己的输出进行不断的提炼抽象分类。</p>
-<p>刚好这两天也看到《傅佩荣的西方哲学课》讲到了三层抽象：</p>
-<ol>
-<li><p>物理抽象</p>
-</li>
-<li><p>数学抽象</p>
-</li>
-<li><p>形而上抽象</p>
-</li>
-</ol>
-<p>这里面主要有一个我觉得思维比较有意思的地方，其实还是现实到意识，客观到主观的一个反映。</p>
-<p><strong>物理抽象，就是把它的物理特性、个别的东西去掉。</strong></p>
-<p>譬如你现在说：“我看到一辆车”。你看到车，你称它为车，但这辆车跟别的车不一样，因为天下没有两辆一样的车。你说这是车，就代表什么？你把物理特性去掉了。换句话说，物理抽象是人的理性的本能的运作。</p>
-<p>一个小孩子看图片，看到一只狮子的画，在书上看起来跟猫差不多大小，他到动物园一看就知道那是一只狮子。为什么？他有物理抽象能力，他不会说：“这跟我书上看的平面的那个狮子不一样。”你不用担心，人作为人，他的理性就有这样的能力，叫做物理抽象。</p>
-<p><strong>你如果没有物理抽象的能力，你永远只能看个别性、个体性、特殊性，而不能说这是车，因为天下没有所谓的车，每辆车都不一样。</strong></p>
-<p>有时候我们经常说透过现象看本质，就是一种透过个性看共性的一种整体思维、宏观思维、系统思维的能力。</p>
-<p>当我们谈论人类的时候，我们不是在谈论某一个具体的人。</p>
-<p><strong>数学抽象，我觉得可以用另外一个概念来表示，数学建模，</strong>就是对现实世界的一个代数几何的抽象。比如计算机的0&#x2F;1信息表示、山水画简约画等等。</p>
-<p><strong>形而上抽象</strong>，不问这是什么东西，也不问能不能计算，<strong>只问“你存在吗？”</strong> 只要是存在的都是一样的，譬如说有一张桌子存在，还有太阳，还有月亮，还有房屋，它们都是一样的。</p>
-<p>亚里士多德谈到形而上学的时候，他用一句话“把存在之物当作存在之物来看”，而不要看它是不是苹果，是不是圆形的东西，不要看那些，只看它是不是存在。</p>
-<p>每一层抽象都是一个升维的过程，维度越高信息的压缩比其实更大，简练但涵盖的信息却更大，这也就是我们在经常记笔记容易忽略的。</p>
-<p>我们如果更容易提炼抽象，也就更能把握事物的特性要点，进而可以推断普遍性。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>当人类抬头仰望星空的那一刻, 就注定了我们不凡的命运</title>
-    <url>/zh-CN/20220713/</url>
-    <content><![CDATA[<p>「星空」</p>
-<p>刘慈欣有一篇短篇科幻小说《朝闻道》，里面提到了一个场景，当地球文明向高级文明询问什么时候开始关注到自己的时候，他们是这样回答的：</p>
-<p>“这个原始人仰望星空的时间超过了预警阀值，已对宇宙表现出了充分的好奇，到此为止，已在不同的地点观察到了10例这样的超限事件，符合报警条件。”</p>
-<p>当地球文明很难理解再次询问的时候，他们露出毫无特点的微笑说：“很难理解吗？当生命意识到宇宙奥秘的存在时，距它最终解开这个奥秘只有一步之遥了。”</p>
-<p>我非常喜欢这段对话，其中一个点就在于人类抬头仰望星空的那个意识，那个动作，那个发心，这在我看来比什么都厉害。</p>
-<p>很多年前也有一个关于螺丝钉的故事：</p>
-<p>有一天，一家发电厂发生故障，所有机器停止了运转，几个小时过去了，厂里仍没有人能解决，于是找来了最好的技术专家。</p>
-<p>技术专家来到现场后，检查了一番，最后拧了拧其中一个螺丝，然后机器就都正常了。</p>
-<p>专家最后收取1万美元的费用，并且在账单上清楚的写到，拧螺丝：1美元，知道该拧哪颗螺丝钉：9999美元。</p>
-<p>柏拉图的《理想国》也有一个著名的故事：洞穴隐喻。</p>
-<p>故事大概讲的是一群生活在洞穴的人，其中一个发现了真理，并勇于走出洞穴。但当他再也不愿意过这种黑暗生活，并且想救出他的同伴后，回来告诉他的同伴，那些同伴居然觉得他有问题，最终把他给杀了。</p>
-<p>也许我们大抵看到的不过是这个世界的虚无，至于什么才是真实呢，抑或我们怎么才能证实这个世界的真实或者虚无呢？</p>
-<p>或许这都不重要，重要的是，有无数的人在不断地探索这个世界的真实。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>自觉者无迷</title>
-    <url>/zh-CN/20220716/</url>
-    <content><![CDATA[<p>「自觉」</p>
-<p>自觉，指自己有所认识而主动去做；自己感觉到；自己有所察觉。</p>
-<p>最近对这个概念的感觉很强烈：真正的觉醒一定是来源于自我的发现，自我的察觉，与外人无关，外人顶多不过一个引子。</p>
-<p>哲学里，自觉指的是内在自我发现、外在创新的自我解放意识，是一个反思的过程。</p>
-<p>这期笔记侠训练营有不少同学，虽然已是公司中高层、老板了，但仍然很强的自我意识，无空杯心态，急躁、空想，知行合一的道理好像都懂，但真正离「行」却相差甚远。</p>
-<p>禅宗讲究顿悟，我以为所谓的顿悟，不过是自我觉察的那一瞬间，不过是主观意识超然的那一瞬间。</p>
-<p>至于悟出来的是什么，自我觉察的是什么，自我才是最清楚的，就像很多人其实觉得自己悟道了，但悟的又是什么道呢？</p>
-<p>可能，不过「道不同，继而不相为谋」吧，不过对于每一个人来说。</p>
-<p>无自觉到自觉只是觉醒的第一步，自觉之道是否正确才是第二步。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
     <title>我之存在，幸运至极</title>
     <url>/zh-CN/20220726/</url>
     <content><![CDATA[<p>「幸运」</p>
@@ -1507,6 +1483,43 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
 <p>因为，突然你发现，如此复杂的世界，几千年之前，有人与你理解世界的方式竟如出一辙，顿时感动到一塌糊涂。</p>
 <p>也不知道，有时候到底，因为无尽地探索这个世界的真实，才变得幸运；还是因为幸运，才开始探索这无尽世界的真实。</p>
 <p>也许，概率本就是这世界的真相，我之存在，幸运至极。</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>不要因为走得太远而忘记为什么出发</title>
+    <url>/zh-CN/20220730/</url>
+    <content><![CDATA[<p>「从A到B」</p>
+<p>最近在读《成为超级学习者》这本书，主要讲的是通过老师的视角来探讨学习，很棒的一个视角。</p>
+<p>其中有一个教学法：<strong>探究式教学法</strong>。</p>
+<p>也提到，当我们思考一个问题会问：</p>
+<ol>
+<li><p>这是什么？</p>
+</li>
+<li><p>它是如何工作的？</p>
+</li>
+<li><p>为什么X、Y、Z?</p>
+</li>
+<li><p>接下来会发生什么？</p>
+</li>
+<li><p><strong>怎样才能从A到B</strong>？</p>
+</li>
+</ol>
+<p>这是一个很不错的问题思考范式，是一个「2W1H」的拓展。</p>
+<p>最近14期的笔记侠训练营和公司新员工解决问题时候，我发现大家很容易出现这个问题，不清晰什么是从A到B。</p>
+<p>比如，训练营学员有很多都是冲着学分、笔记达人，或者是冲着非常漂亮的竖版思维导图、知识卡片去的，不少学员每天都在讨论各种工具使用的具体方法，极少数的学员关注到了笔记背后的逻辑、为什么记笔记，以及笔记能带给我们什么。</p>
+<p>再比如，有软件工程师在编程的时候，很容易忘记需求是什么，特别是技术遇到瓶颈时，问题一直解决不了，最后时间过去，任务完成不了。</p>
+<p>一问，卡在某个技术问题上很久了，一直在解决一个具体的技术细节问题，而不是一个业务问题，再一问，这个换个人工可能几分钟就解决了。</p>
+<p>这个时候如果有一张A4的纸，一支笔，简单的在笔上先梳理下问题，确定一下那个B，其实可能会有新的答案。</p>
+<p>我有时候总是想，这个世界虽然很复杂，但有时候其实也很简单，简单到你一眼就看到了终点。</p>
+<p>只是，这个达到终点的路径有的人很径直，有的人很曲折，甚至直到时间的尽头都没有达到。</p>
+<p>“We already walked too far, down to we had forgotten why embarked.” – 纪伯伦</p>
+<p>很多年前知道这句话， 是因为柴静的《看见》，然后找到了《不要因为走得太远而忘记为什么出发：陈虻，我们听你讲》，这本书也不错。</p>
+<p>越是忙，越是焦虑的时候，越应该停下来思考一下，想想那些初心。</p>
+<p>至于什么是A，什么又是B，又如何从A快捷地达到B，这可能需要人生的各种经验阅历的思考和实践。</p>
+<p>但试着停下来想想，一天两天，总在某个契机会出现答案的。</p>
 ]]></content>
       <categories>
         <category>时光集</category>
@@ -1558,43 +1571,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
 <p>这个也算是《星际穿越》整部电影背后的逻辑线索了，也正是这段对话可能被Coop日常一次又一次的跟Murph提及传达耳濡目染，才有了最后四维空间和三维空间的一次超越时空的连接，人类才得以幸运的延续。</p>
 <p>科学其实是一个证伪的过程，我们对眼前不确定的现象或者问题，得以面对思考探究后，终究会得出一个友好的答案，但这背后的方法<strong>应该</strong>是可以确定的，比如<strong>逻辑</strong>。</p>
 <p>这四步就是一次逻辑推理的过程，只不过最终的结论可能会随着时空在变化，所以我们也需要与时俱进，不断地学习，不断地重复逻辑推理。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>不要因为走得太远而忘记为什么出发</title>
-    <url>/zh-CN/20220730/</url>
-    <content><![CDATA[<p>「从A到B」</p>
-<p>最近在读《成为超级学习者》这本书，主要讲的是通过老师的视角来探讨学习，很棒的一个视角。</p>
-<p>其中有一个教学法：<strong>探究式教学法</strong>。</p>
-<p>也提到，当我们思考一个问题会问：</p>
-<ol>
-<li><p>这是什么？</p>
-</li>
-<li><p>它是如何工作的？</p>
-</li>
-<li><p>为什么X、Y、Z?</p>
-</li>
-<li><p>接下来会发生什么？</p>
-</li>
-<li><p><strong>怎样才能从A到B</strong>？</p>
-</li>
-</ol>
-<p>这是一个很不错的问题思考范式，是一个「2W1H」的拓展。</p>
-<p>最近14期的笔记侠训练营和公司新员工解决问题时候，我发现大家很容易出现这个问题，不清晰什么是从A到B。</p>
-<p>比如，训练营学员有很多都是冲着学分、笔记达人，或者是冲着非常漂亮的竖版思维导图、知识卡片去的，不少学员每天都在讨论各种工具使用的具体方法，极少数的学员关注到了笔记背后的逻辑、为什么记笔记，以及笔记能带给我们什么。</p>
-<p>再比如，有软件工程师在编程的时候，很容易忘记需求是什么，特别是技术遇到瓶颈时，问题一直解决不了，最后时间过去，任务完成不了。</p>
-<p>一问，卡在某个技术问题上很久了，一直在解决一个具体的技术细节问题，而不是一个业务问题，再一问，这个换个人工可能几分钟就解决了。</p>
-<p>这个时候如果有一张A4的纸，一支笔，简单的在笔上先梳理下问题，确定一下那个B，其实可能会有新的答案。</p>
-<p>我有时候总是想，这个世界虽然很复杂，但有时候其实也很简单，简单到你一眼就看到了终点。</p>
-<p>只是，这个达到终点的路径有的人很径直，有的人很曲折，甚至直到时间的尽头都没有达到。</p>
-<p>“We already walked too far, down to we had forgotten why embarked.” – 纪伯伦</p>
-<p>很多年前知道这句话， 是因为柴静的《看见》，然后找到了《不要因为走得太远而忘记为什么出发：陈虻，我们听你讲》，这本书也不错。</p>
-<p>越是忙，越是焦虑的时候，越应该停下来思考一下，想想那些初心。</p>
-<p>至于什么是A，什么又是B，又如何从A快捷地达到B，这可能需要人生的各种经验阅历的思考和实践。</p>
-<p>但试着停下来想想，一天两天，总在某个契机会出现答案的。</p>
 ]]></content>
       <categories>
         <category>时光集</category>
@@ -1776,31 +1752,6 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
-    <title>最高深的智慧，往往隐于最纯粹的心灵之中</title>
-    <url>/zh-CN/20220926/</url>
-    <content><![CDATA[<p>「纯粹」</p>
-<p>最近断断续续看到王利芬关于<a href="https://www.bilibili.com/video/BV1L7411Y7oj">李连杰</a>的一个经典采访，再次看到完整的这段视频的时候，对思考、对壹基金、对互联网、对人类、对信仰等等太多了，又有了一个新的了解和感受。</p>
-<p>李连杰11岁懂得了阴阳，懂得了太极，而自己30岁左右才窥见一斑，这个世界并不是非黑即白。</p>
-<p>李连杰聊到科学说，</p>
-<blockquote>
-<p>人类五千年所能掌握的宇宙的奥妙实在是有限的，我们所掌握的科技知识是一个非常有限科学，<strong>就是因为它不科学，所以才叫科学</strong>。</p>
-</blockquote>
-<p>我没想道这话竟然是从功夫皇帝这儿分享出来的，没想到一个小学没有毕业，常年谦卑自己没有文化的人得出这样的认知，这点太厉害了。</p>
-<p>关于科学，现在太多的人没有一个认知，认为科学就是真理，其实不是，科学的正确只是暂时的，不断的否定和修正才是真理，<strong>这个世界可能不曾有真理，唯一的真理可能是不断探索真理的过程。</strong></p>
-<p>李连杰因为武术、因为《少林寺》，了解了世界，了解了电影，一个十几岁的孩子对世界有了一个全新的认知，并且他在不断地思考，思考为什么有人一直在说，“练武术的人是头脑简单四肢发达”，他用了半生都在求证并且证明这件事是不对的，<strong>努力不断地学习</strong>，让自己尽可能的多一点智慧，并且他做到了。</p>
-<p>也因为这样的认知，让李连杰宁可断腿都要离开体制内，也因为这个念想，机缘巧合断了腿，他竟然对这件事的发生开心要死，感受到老天在帮他。也许是年少无知，也许是年少有为，意气风发，他出来了，也才有后面那么多优秀的电影，但是电影才只是他优秀的一部分。</p>
-<p>他是一个时刻深度思考的人：他在思考当所有人都这样做的时候，是不是就有问题了；他在思考怎么才能更高效，这两种思维方式在他年轻的时候就已经根深蒂固了，起因可能就是很早接触了<strong>太极阴阳，</strong>这点太厉害了，厉害在于即使你过早的接触到，但也不一定能悟到。</p>
-<p>好在因为自己接触禅宗之后，一直念念不忘吧，才触碰到了「道」的边缘，实属幸运至极。</p>
-<p>他也在不断地广读书，读名人传记，读居里夫人、斯大林、希特勒、爱迪生、邓小平文选等等；读经典，读圣经古兰经等等。</p>
-<p>李连杰曾经年少的时候有一个梦想，就是<strong>去浇花</strong>，但他把这个梦想告诉身边的人时候，大家都说他，不思进取，没有志向，没有骨气懦夫。</p>
-<p>小王子曾经也有这样纯粹的梦想，他不理解为什么那么多人那么复杂，那么不纯粹。</p>
-<p>而我现在苦苦追寻的不过也是，像浇花这样纯粹的一个或者若干个梦而已吧。</p>
-]]></content>
-      <categories>
-        <category>时光集</category>
-      </categories>
-  </entry>
-  <entry>
     <title>让子弹飞一会儿</title>
     <url>/zh-CN/20221017/</url>
     <content><![CDATA[<p>「飞翔」</p>
@@ -1828,38 +1779,29 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
   </entry>
   <entry>
-    <title>人类为什么会问为什么？</title>
-    <url>/zh-CN/20221106/</url>
-    <content><![CDATA[<blockquote>
-<p>见山是山，见水是水；</p>
-<p>见山不是山，见水不是水；</p>
-<p>见山还是山，见水还是水。</p>
+    <title>最高深的智慧，往往隐于最纯粹的心灵之中</title>
+    <url>/zh-CN/20220926/</url>
+    <content><![CDATA[<p>「纯粹」</p>
+<p>最近断断续续看到王利芬关于<a href="https://www.bilibili.com/video/BV1L7411Y7oj">李连杰</a>的一个经典采访，再次看到完整的这段视频的时候，对思考、对壹基金、对互联网、对人类、对信仰等等太多了，又有了一个新的了解和感受。</p>
+<p>李连杰11岁懂得了阴阳，懂得了太极，而自己30岁左右才窥见一斑，这个世界并不是非黑即白。</p>
+<p>李连杰聊到科学说，</p>
+<blockquote>
+<p>人类五千年所能掌握的宇宙的奥妙实在是有限的，我们所掌握的科技知识是一个非常有限科学，<strong>就是因为它不科学，所以才叫科学</strong>。</p>
 </blockquote>
-<p>起初，人类可能是不会问为什么的，但人类何时开始有意识问了为什么，这是<strong>起源</strong>。</p>
-<p>为什么可以用「2W1H」框架来思考一些问题，又为什么这个框架能把一些事解释清楚？</p>
-<p>什么是What，什么是Why，什么是How？</p>
-<p>为什么是三个，而为什么又是这三个？</p>
-<p>我们在思考，但我们从来很难意识到自己在思考。</p>
-<p>思考的源头在哪儿？在大脑。</p>
-<p>大脑的源头在哪儿？在意识。</p>
-<p>哲学关注之一可能就是关注<strong>本源</strong>。</p>
-<p>如果人类问了为什么会产生什么，可能会得到一个果。</p>
-<p>如果人类不问为什么又会产生什么，可能只会按照既定轨迹运动。</p>
-<p>我们不断地在追求探索这个世界的本源，不断地去问为什么，目的是想清晰地了解世界，都在探索存在的合理性，这背后一直有隐性的东西存在，<strong>「因果逻辑」</strong>。</p>
-<p>wa我们很难说清楚，大脑没有意识之前是怎么表达和理解这个世界的，小孩到底是怎么理解这个世界的，小孩又是怎么思考的，抑或没有思考？我们成年过后的思考，是否是某种被囚禁的思考？</p>
-<p>这个世界看似都是存在「因」，人类在发问的那一瞬间，意识里面可能存在的无法被修改的信仰，就是信「因果」。</p>
-<p>当年我对《天意》里面的一个场景念念不忘，就是韩信的认知怎么去理解和相信了外星人的存在。后来《新宋》里面也很惊奇王安石即使知道有人知道未来，但也不足以改变什么的意识。</p>
-<p>这个世界的一个定律可能就是<strong>「万事皆有因果」</strong>。</p>
-<p>可是，是吗？</p>
-<p>对因果的绝对信仰是不是阻碍你真正认识世界的根源，就像我们说的绝对，不过是概率事件的一个特殊事件，这个世界可能暗物质才是主要组成部分，物质只是一部分而已。</p>
-<p>当我们笃信的本质，原本不过是一个表象，你还会相信这个世界吗？</p>
+<p>我没想道这话竟然是从功夫皇帝这儿分享出来的，没想到一个小学没有毕业，常年谦卑自己没有文化的人得出这样的认知，这点太厉害了。</p>
+<p>关于科学，现在太多的人没有一个认知，认为科学就是真理，其实不是，科学的正确只是暂时的，不断的否定和修正才是真理，<strong>这个世界可能不曾有真理，唯一的真理可能是不断探索真理的过程。</strong></p>
+<p>李连杰因为武术、因为《少林寺》，了解了世界，了解了电影，一个十几岁的孩子对世界有了一个全新的认知，并且他在不断地思考，思考为什么有人一直在说，“练武术的人是头脑简单四肢发达”，他用了半生都在求证并且证明这件事是不对的，<strong>努力不断地学习</strong>，让自己尽可能的多一点智慧，并且他做到了。</p>
+<p>也因为这样的认知，让李连杰宁可断腿都要离开体制内，也因为这个念想，机缘巧合断了腿，他竟然对这件事的发生开心要死，感受到老天在帮他。也许是年少无知，也许是年少有为，意气风发，他出来了，也才有后面那么多优秀的电影，但是电影才只是他优秀的一部分。</p>
+<p>他是一个时刻深度思考的人：他在思考当所有人都这样做的时候，是不是就有问题了；他在思考怎么才能更高效，这两种思维方式在他年轻的时候就已经根深蒂固了，起因可能就是很早接触了<strong>太极阴阳，</strong>这点太厉害了，厉害在于即使你过早的接触到，但也不一定能悟到。</p>
+<p>好在因为自己接触禅宗之后，一直念念不忘吧，才触碰到了「道」的边缘，实属幸运至极。</p>
+<p>他也在不断地广读书，读名人传记，读居里夫人、斯大林、希特勒、爱迪生、邓小平文选等等；读经典，读圣经古兰经等等。</p>
+<p>李连杰曾经年少的时候有一个梦想，就是<strong>去浇花</strong>，但他把这个梦想告诉身边的人时候，大家都说他，不思进取，没有志向，没有骨气懦夫。</p>
+<p>小王子曾经也有这样纯粹的梦想，他不理解为什么那么多人那么复杂，那么不纯粹。</p>
+<p>而我现在苦苦追寻的不过也是，像浇花这样纯粹的一个或者若干个梦而已吧。</p>
 ]]></content>
       <categories>
         <category>时光集</category>
       </categories>
-      <tags>
-        <tag>因果</tag>
-      </tags>
   </entry>
   <entry>
     <title>假设这个世界是可以理解的，那它的理解之处在哪儿？</title>
@@ -1903,6 +1845,81 @@ I never expected to hear this from Emperor of Kung Fu, but it's truly remarkable
       </categories>
       <tags>
         <tag>概率</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人类为什么会问为什么？</title>
+    <url>/zh-CN/20221106/</url>
+    <content><![CDATA[<blockquote>
+<p>见山是山，见水是水；</p>
+<p>见山不是山，见水不是水；</p>
+<p>见山还是山，见水还是水。</p>
+</blockquote>
+<p>起初，人类可能是不会问为什么的，但人类何时开始有意识问了为什么，这是<strong>起源</strong>。</p>
+<p>为什么可以用「2W1H」框架来思考一些问题，又为什么这个框架能把一些事解释清楚？</p>
+<p>什么是What，什么是Why，什么是How？</p>
+<p>为什么是三个，而为什么又是这三个？</p>
+<p>我们在思考，但我们从来很难意识到自己在思考。</p>
+<p>思考的源头在哪儿？在大脑。</p>
+<p>大脑的源头在哪儿？在意识。</p>
+<p>哲学关注之一可能就是关注<strong>本源</strong>。</p>
+<p>如果人类问了为什么会产生什么，可能会得到一个果。</p>
+<p>如果人类不问为什么又会产生什么，可能只会按照既定轨迹运动。</p>
+<p>我们不断地在追求探索这个世界的本源，不断地去问为什么，目的是想清晰地了解世界，都在探索存在的合理性，这背后一直有隐性的东西存在，<strong>「因果逻辑」</strong>。</p>
+<p>wa我们很难说清楚，大脑没有意识之前是怎么表达和理解这个世界的，小孩到底是怎么理解这个世界的，小孩又是怎么思考的，抑或没有思考？我们成年过后的思考，是否是某种被囚禁的思考？</p>
+<p>这个世界看似都是存在「因」，人类在发问的那一瞬间，意识里面可能存在的无法被修改的信仰，就是信「因果」。</p>
+<p>当年我对《天意》里面的一个场景念念不忘，就是韩信的认知怎么去理解和相信了外星人的存在。后来《新宋》里面也很惊奇王安石即使知道有人知道未来，但也不足以改变什么的意识。</p>
+<p>这个世界的一个定律可能就是<strong>「万事皆有因果」</strong>。</p>
+<p>可是，是吗？</p>
+<p>对因果的绝对信仰是不是阻碍你真正认识世界的根源，就像我们说的绝对，不过是概率事件的一个特殊事件，这个世界可能暗物质才是主要组成部分，物质只是一部分而已。</p>
+<p>当我们笃信的本质，原本不过是一个表象，你还会相信这个世界吗？</p>
+]]></content>
+      <categories>
+        <category>时光集</category>
+      </categories>
+      <tags>
+        <tag>因果</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>李连杰的旅程：阴阳、科学与纯粹梦想的追求</title>
+    <url>/zh-CN/20230817/</url>
+    <content><![CDATA[<p>最近，我断断续续地看到了一段关于李连杰的经典采访，这是由王利芬主持的。当我再次完整地观看这个视频时，我发现自己在思考许多话题——思考、壹基金、互联网、人性、信仰等等。这引发了我新的理解和感悟。</p>
+<h2 id="李连杰对阴阳的早期理解"><a href="#李连杰对阴阳的早期理解" class="headerlink" title="李连杰对阴阳的早期理解"></a>李连杰对阴阳的早期理解</h2><p>李连杰在11岁时就理解了<strong>阴阳</strong>的概念，领悟了太极的精髓。直到他30岁左右，他才开始窥见真理：世界并非只是黑与白。</p>
+<h2 id="科学与真理的关系"><a href="#科学与真理的关系" class="headerlink" title="科学与真理的关系"></a>科学与真理的关系</h2><p>谈到科学，李连杰分享道：</p>
+<blockquote>
+“人类掌握的五千年的宇宙奥秘其实非常有限。我们掌握的科学知识非常有限；<b>它之所以被称为科学，恰恰是因为它并不科学。</b>”
+</blockquote>
+
+<p>我从未想到会从功夫皇帝口中听到这样的言论，但令人惊讶的是，一个连小学都没毕业的人，一个一直对自己的教育背景谦虚低调的人，竟能得出如此深刻的认识。</p>
+<p>关于科学，现如今很多人对其缺乏理解，认为科学等同于真理。实际上并非如此。科学的正确性是暂时的，通过不断地否定和修正，我们才能接近真理。这个世界上可能根本没有绝对的真理，唯一的真理可能就是不断追求真理的过程。</p>
+<h2 id="禅宗与道的探寻"><a href="#禅宗与道的探寻" class="headerlink" title="禅宗与道的探寻"></a>禅宗与道的探寻</h2><p>由于武术和电影《少林寺》，李连杰获得了对世界的洞察，理解了电影与宇宙。作为一个少年，他对世界形成了全新的认识，并不断地思考。他质疑为何人们总是说“练武的人四肢发达，头脑简单”。他花了半生时间寻找证据，推翻这一观点，致力于学习，尽可能地培养智慧，而他确实做到了这一点。</p>
+<p>这一认识促使李连杰离开了体制，即使意味着要打断他的腿。他的决心导致了一次偶然的腿伤，他对此感到欣喜若狂，感觉命运站在他这一边。或许是年少的无知，或许是年少的志向，促使他产生了这样的看法。他走了出来，诞生了无数优秀的电影，但电影只是他卓越的一部分。</p>
+<p>他是一个深入思考的人：他反思当每个人都在做某件事时，是否存在问题。他思考如何更高效地做事。这两种思维方式在他年轻时就深深植根于他，或许是受到他早期接触阴阳概念的影响。这很了不起；虽然早早接触这个概念，但并不是每个人都能领悟其精髓。</p>
+<p>幸运的是，在接触禅宗之后，这种不断的渴望使他走到了<strong>道</strong>的边缘，这是一次巨大的幸运。</p>
+<h2 id="对纯粹梦想的追求"><a href="#对纯粹梦想的追求" class="headerlink" title="对纯粹梦想的追求"></a>对纯粹梦想的追求</h2><p>他不断地读书，阅读名人传记，阅读玛丽·居里、斯大林、希特勒、爱迪生的生平故事，以及选读邓小平的作品等。他还阅读经典，包括《圣经》和《古兰经》。</p>
+<p>年轻时，李连杰有一个梦想——浇花。然而，当他与周围人分享这个梦想时，他们认为他缺乏野心、方向和勇气，指责他是个没有大志向的懦夫。</p>
+<p>小王子曾经也有这样一个纯粹的梦想，他无法理解为什么那么多人如此复杂，如此不纯洁。</p>
+<p>而现在，我所孜孜不倦追求的不过是一个纯粹的梦想，类似于浇花——也许是一个或几个梦想。</p>
+<hr>
+<p><strong>相关文章:</strong></p>
+<ul>
+<li><a href="https://oneview.cc/zh-CN/yin-yang/">探索阴阳的概念</a></li>
+<li><a href="https://oneview.cc/zh-CN/zen-buddhism/">禅宗：理解之道</a></li>
+</ul>
+<p><strong>参考资料:</strong></p>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E8%BF%9E%E6%9D%B0">李连杰 - 维基百科</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E9%98%B4%E9%98%B3">阴阳 - 维基百科</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>李连杰</tag>
+        <tag>哲学</tag>
+        <tag>阴阳</tag>
+        <tag>禅宗</tag>
+        <tag>科学</tag>
+        <tag>梦想</tag>
       </tags>
   </entry>
   <entry>
