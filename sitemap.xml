@@ -650,7 +650,49 @@
 
   
   <url>
+    <loc>http://oneview.cc/tags/Symbiosis/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Facts/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Opinions/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Emotions/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://oneview.cc/tags/Origins/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/History/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Ancestors/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -692,91 +734,7 @@
   </url>
   
   <url>
-    <loc>http://oneview.cc/tags/Symbiosis/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/History/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Ancestors/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://oneview.cc/tags/Education/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Facts/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Opinions/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Emotions/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Uncertainty/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Logic/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Concepts/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Pain/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Roles/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Thinking/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -797,6 +755,27 @@
   </url>
   
   <url>
+    <loc>http://oneview.cc/tags/Pain/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Uncertainty/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Roles/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://oneview.cc/tags/Labeling/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -805,6 +784,27 @@
   
   <url>
     <loc>http://oneview.cc/tags/Definition/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Thinking/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Logic/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Concepts/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1007,13 +1007,6 @@
   </url>
   
   <url>
-    <loc>http://oneview.cc/tags/%E6%A6%82%E7%8E%87/</loc>
-    <lastmod>2024-08-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://oneview.cc/tags/%E6%9D%8E%E8%BF%9E%E6%9D%B0/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1050,6 +1043,13 @@
   
   <url>
     <loc>http://oneview.cc/tags/%E6%A2%A6%E6%83%B3/</loc>
+    <lastmod>2024-08-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/%E6%A6%82%E7%8E%87/</loc>
     <lastmod>2024-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
