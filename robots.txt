@@ -11,3 +11,4 @@ Disallow: /css/
 Disallow: /fonts/
 
 Sitemap: https://oneview.cc/sitemap.xml
+Sitemap: https://oneview.cc/badusitemap.xml
