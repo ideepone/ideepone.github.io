@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://oneview.cc/the-power-of-simplicity/</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
     <loc>http://oneview.cc/thinking-universe-human-self/</loc>
     <lastmod>2024-08-26</lastmod>
   </url>
@@ -87,9 +91,5 @@
   <url>
     <loc>http://oneview.cc/20221106/</loc>
     <lastmod>2024-08-13</lastmod>
-  </url>
-  <url>
-    <loc>http://oneview.cc/simple/</loc>
-    <lastmod>2024-08-12</lastmod>
   </url>
 </urlset> 
