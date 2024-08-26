@@ -264,13 +264,6 @@
   </url>
   
   <url>
-    <loc>http://oneview.cc/tags/Symbiosis/</loc>
-    <lastmod>2024-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://oneview.cc/tags/History/</loc>
     <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,6 +313,20 @@
   </url>
   
   <url>
+    <loc>http://oneview.cc/tags/Symbiosis/</loc>
+    <lastmod>2024-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Education/</loc>
+    <lastmod>2024-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://oneview.cc/tags/State/</loc>
     <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -335,13 +342,6 @@
   
   <url>
     <loc>http://oneview.cc/tags/Zen-Sayings/</loc>
-    <lastmod>2024-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Education/</loc>
     <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -474,20 +474,6 @@
   </url>
   
   <url>
-    <loc>http://oneview.cc/tags/Dao/</loc>
-    <lastmod>2024-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oneview.cc/tags/Culture-and-System/</loc>
-    <lastmod>2024-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://oneview.cc/tags/Causality/</loc>
     <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -496,6 +482,20 @@
   
   <url>
     <loc>http://oneview.cc/tags/Probability/</loc>
+    <lastmod>2024-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Dao/</loc>
+    <lastmod>2024-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oneview.cc/tags/Culture-and-System/</loc>
     <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
