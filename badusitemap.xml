@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://oneview.cc/zh-CN/thinking-universe-human-self/</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
     <loc>http://oneview.cc/en/20230817/</loc>
-    <lastmod>2024-08-24</lastmod>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>http://oneview.cc/en/thinking-universe-human-self/</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>http://oneview.cc/zh-CN/20230817/</loc>
+    <lastmod>2024-08-26</lastmod>
   </url>
   <url>
     <loc>http://oneview.cc/en/20220404/</loc>
@@ -34,10 +46,6 @@
   </url>
   <url>
     <loc>http://oneview.cc/zh-CN/20220508/</loc>
-    <lastmod>2024-08-23</lastmod>
-  </url>
-  <url>
-    <loc>http://oneview.cc/zh-CN/20230817/</loc>
     <lastmod>2024-08-23</lastmod>
   </url>
   <url>
