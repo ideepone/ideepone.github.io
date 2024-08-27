@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ONEVIEW</title>
+  <title>Keep Living Keep Loving</title>
   
-  <subtitle>Keep it simple.</subtitle>
+  <subtitle>ONEVIEW</subtitle>
   <link href="http://oneview.cc/atom.xml" rel="self"/>
   
   <link href="http://oneview.cc/"/>
@@ -62,11 +62,11 @@
     
     
     
-    <category term="Simplicity" scheme="http://oneview.cc/tags/Simplicity/"/>
-    
     <category term="Philosophy" scheme="http://oneview.cc/tags/Philosophy/"/>
     
     <category term="Science" scheme="http://oneview.cc/tags/Science/"/>
+    
+    <category term="Simplicity" scheme="http://oneview.cc/tags/Simplicity/"/>
     
     <category term="Understanding" scheme="http://oneview.cc/tags/Understanding/"/>
     
@@ -89,15 +89,15 @@
     <category term="Times" scheme="http://oneview.cc/categories/Times/"/>
     
     
-    <category term="Philosophy" scheme="http://oneview.cc/tags/Philosophy/"/>
+    <category term="Jet Li" scheme="http://oneview.cc/tags/Jet-Li/"/>
     
-    <category term="Science" scheme="http://oneview.cc/tags/Science/"/>
+    <category term="Philosophy" scheme="http://oneview.cc/tags/Philosophy/"/>
     
     <category term="Yin Yang" scheme="http://oneview.cc/tags/Yin-Yang/"/>
     
-    <category term="Jet Li" scheme="http://oneview.cc/tags/Jet-Li/"/>
-    
     <category term="Zen Buddhism" scheme="http://oneview.cc/tags/Zen-Buddhism/"/>
+    
+    <category term="Science" scheme="http://oneview.cc/tags/Science/"/>
     
     <category term="Dreams" scheme="http://oneview.cc/tags/Dreams/"/>
     
@@ -167,11 +167,11 @@
     <category term="Times" scheme="http://oneview.cc/categories/Times/"/>
     
     
+    <category term="Philosophical Thinking" scheme="http://oneview.cc/tags/Philosophical-Thinking/"/>
+    
     <category term="Worldview" scheme="http://oneview.cc/tags/Worldview/"/>
     
     <category term="Seek Truth from Facts" scheme="http://oneview.cc/tags/Seek-Truth-from-Facts/"/>
-    
-    <category term="Philosophical Thinking" scheme="http://oneview.cc/tags/Philosophical-Thinking/"/>
     
   </entry>
   
@@ -221,9 +221,9 @@
     <category term="Times" scheme="http://oneview.cc/categories/Times/"/>
     
     
-    <category term="Philosophical Thinking" scheme="http://oneview.cc/tags/Philosophical-Thinking/"/>
-    
     <category term="Yin Yang" scheme="http://oneview.cc/tags/Yin-Yang/"/>
+    
+    <category term="Philosophical Thinking" scheme="http://oneview.cc/tags/Philosophical-Thinking/"/>
     
     <category term="System Thinking" scheme="http://oneview.cc/tags/System-Thinking/"/>
     
@@ -246,9 +246,9 @@
     <category term="Times" scheme="http://oneview.cc/categories/Times/"/>
     
     
-    <category term="Worldview" scheme="http://oneview.cc/tags/Worldview/"/>
-    
     <category term="Philosophy" scheme="http://oneview.cc/tags/Philosophy/"/>
+    
+    <category term="Worldview" scheme="http://oneview.cc/tags/Worldview/"/>
     
     <category term="Rebirth" scheme="http://oneview.cc/tags/Rebirth/"/>
     
