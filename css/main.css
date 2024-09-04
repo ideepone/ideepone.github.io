@@ -186,7 +186,7 @@ body {
   color: var(--text-color);
   font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1em;
-  line-height: 2;
+  line-height: 1.5;
   min-height: 100%;
   position: relative;
   transition: padding 0.2s ease-in-out;
@@ -1233,7 +1233,7 @@ pre code {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #da4fff;
+  background: #7f3293;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -1354,7 +1354,7 @@ pre code {
   visibility: hidden;
 }
 .sidebar-nav-active .sidebar-nav {
-  height: calc(2em + 1px);
+  height: calc(1.5em + 1px);
   pointer-events: unset;
   visibility: unset;
 }
@@ -1993,7 +1993,7 @@ pre code {
 }
 .posts-expand .post-header {
   font-size: 1.125em;
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   text-align: center;
 }
 .posts-expand .post-title {
